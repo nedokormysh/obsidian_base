@@ -1,5 +1,4 @@
-RMSE (Root mean squared error, среднеквадратичная ошибка) – квадратный корень из
-среднеквадратичной ошибки MSE:
+RMSE (Root mean squared error, среднеквадратичная ошибка) – квадратный корень из среднеквадратичной ошибки MSE:
 
 $RMSE = /sqrt({\frac{1}{l}\sum\limits_{i=1}^l(y_i - a(x_i))^2})$
 
