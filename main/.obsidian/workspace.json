@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md"
               }
             }
           }
@@ -220,6 +220,8 @@
   "active": "7c1ed08054f0185b",
   "lastOpenFiles": [
     "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Линейные модели регрессии.md",
     "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
     "Courses/PyMagic/Pymagic_Content.md",
     "ML/00_ML.md",
@@ -253,8 +255,6 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Метрики в задачах классификации/Accuracy.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
     "Pasted image 20240617154651.png",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Метрики в задачах классификации",
     "Pasted image 20240610131928.png",
     "Pasted image 20240610131818.png",
