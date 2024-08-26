@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Разное/Градиентный спуск.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c1ed08054f0185b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Разное/Градиентный спуск.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Разное/Градиентный спуск.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Разное/Градиентный спуск.md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Intro.md"
               }
             }
           }
@@ -205,9 +217,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7040e6a10637dec4",
+  "active": "7c1ed08054f0185b",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Intro.md",
+    "Courses/PyMagic/Pymagic_Content.md",
     "ML/00_ML.md",
+    "Courses/Stepik/Ai_edu/Practical ML",
+    "Courses/Stepik/Ai_edu",
     "ML/Разное/Градиентный спуск.md",
     "ML/Линейные алгоритмы.md",
     "ML/Разное",
@@ -239,7 +256,6 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Метрики в задачах классификации",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/SVM.md",
     "Pasted image 20240610131928.png",
     "Pasted image 20240610131818.png",
     "Pasted image 20240610131749.png",
@@ -247,8 +263,6 @@
     "Pasted image 20240610124432.png",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация",
     "Untitled.canvas",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/2. Разведочный анализ данных (EDA)",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/1. Машинное обучение. Вводная лекция. Преобразование признаков"
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия"
   ]
 }
