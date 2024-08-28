@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
+                "file": "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
+                "file": "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
+                "file": "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md"
+                "file": "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (парная регрессия).md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Средняя абсолютная ошибка MAE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/RMSE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MSE.md",
+    "ML/Julia_Knowledge_base/Машинное обучение/Метрики.md",
     "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
     "ML/Julia_Knowledge_base/Машинное обучение.md",
+    "ML/Julia_Knowledge_base/Julia&Ko knowledge base.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
@@ -166,18 +177,7 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация",
     "ML/Ансамблирование/Композиции, бэггинг, случайный лес.md",
     "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
-    "Courses/OpenEDU/HSE/ML/OpenEDU_HSE_ML_Content.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 1 (Машинное обучение).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 2 (виды признаков).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 3 (kNN).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
-    "Courses/Stepik/Ai_edu/Practical ML/Линейные модели регрессии.md",
     "Untitled.canvas",
-    "ML/Julia_Knowledge_base/Машинное обучение/Решающие деревья.md",
     "Машинное обучение 172f240fa4fb4d9a98a0a4bd9606a4f2",
     "ML/Julia_Knowledge_base/Машинное обучение",
     "Pasted image 20240827122154.png",
