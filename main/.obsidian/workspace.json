@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/PyMagic/Pymagic_Content.md",
+    "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
+    "ML/Julia_Knowledge_base/Машинное обучение.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
+    "Courses/PyMagic/Pymagic_Content.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация",
     "ML/Julia_Knowledge_base/Машинное обучение/Без названия.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/6. Регуляризация.Кросс-валидация/Регуляризация. Кросс-валидация. Поиск параметров.md",
@@ -174,10 +177,7 @@
     "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
     "Courses/Stepik/Ai_edu/Practical ML/Линейные модели регрессии.md",
     "Untitled.canvas",
-    "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
-    "ML/Julia_Knowledge_base/Машинное обучение.md",
     "ML/Julia_Knowledge_base/Машинное обучение/Решающие деревья.md",
-    "ML/Julia_Knowledge_base/Машинное обучение/Метрические алгоритмы.md",
     "Машинное обучение 172f240fa4fb4d9a98a0a4bd9606a4f2",
     "ML/Julia_Knowledge_base/Машинное обучение",
     "Pasted image 20240827122154.png",
