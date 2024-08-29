@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md"
               }
             }
           }
@@ -148,12 +148,26 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/OpenEDU/HSE/ML/OpenEDU_HSE_ML_Content.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
+    "Courses/PyMagic/Pymagic_Content.md",
+    "ML/Разное/Логистическая регрессия.md",
+    "ML/Линейные алгоритмы.md",
+    "ML/Julia_Knowledge_base/Теория вероятностей/Теория вероятностей_изучить глубже.md",
+    "ML/Julia_Knowledge_base/Теория вероятностей/Lektsii_Rodionov.pdf",
+    "ML/Julia_Knowledge_base/Julia&Ko knowledge base.md",
+    "ML/Julia_Knowledge_base/Теория вероятностей.md",
+    "ML/Julia_Knowledge_base/Машинное обучение/Решающие деревья.md",
+    "ML/Julia_Knowledge_base/Теория вероятностей/Tex-sample-a5.pdf",
+    "ML/Julia_Knowledge_base/Теория вероятностей/probability_zhukovsky.pdf",
+    "ML/Julia_Knowledge_base/Теория вероятностей/142722629.pdf",
+    "ML/Julia_Knowledge_base/Теория вероятностей",
+    "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
-    "ML/Разное/Логистическая регрессия.md",
-    "ML/Julia_Knowledge_base/Машинное обучение/Решающие деревья.md",
     "ML/Ансамблирование/Композиции, бэггинг, случайный лес.md",
     "ML/Разное/Градиентный спуск.md",
     "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
@@ -165,15 +179,6 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/6. Регуляризация.Кросс-валидация/Регуляризация.md",
     "Courses/OpenEDU/HSE/ML/Лекция 3 (kNN).md",
     "Courses/OpenEDU/HSE/ML/Лекция 2 (виды признаков).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 1 (Машинное обучение).md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/SVM.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/GD+SGD.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/МНК.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Huber loss.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/WAPE.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация",
     "Courses/PyMagic/Третья ступень. Теоретическая база",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация",
@@ -182,14 +187,9 @@
     "ML/Julia_Knowledge_base/Машинное обучение",
     "Pasted image 20240827122154.png",
     "Pasted image 20240827122024.png",
-    "ML/Julia_Knowledge_base/Машинное обучение",
-    "ML/Julia_Knowledge_base",
     "Pasted image 20240826165711.png",
     "Pasted image 20240826165206.png",
     "Pasted image 20240610124410.png",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/6. Регуляризация.Кросс-валидация",
-    "Courses/Stepik/Ai_edu/Practical ML",
-    "Courses/Stepik/Ai_edu",
     "Pasted image 20240610130727.png",
     "Pasted image 20240617154651.png",
     "Pasted image 20240610131928.png",
