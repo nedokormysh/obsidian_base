@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 254.5
   },
   "right": {
     "id": "661d4933a7d2d915",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/OpenEDU/HSE/ML/OpenEDU_HSE_ML_Content.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
@@ -165,12 +169,8 @@
     "ML/Julia_Knowledge_base/Теория вероятностей/142722629.pdf",
     "ML/Julia_Knowledge_base/Теория вероятностей",
     "ML/Julia_Knowledge_base/Машинное обучение/Линейные модели.md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "ML/Ансамблирование/Композиции, бэггинг, случайный лес.md",
     "ML/Разное/Градиентный спуск.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
     "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/6. Регуляризация.Кросс-валидация/Поиск параметров по сетке.md",
