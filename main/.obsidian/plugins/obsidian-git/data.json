@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup from pc00687: {{date}}",
+  "commitMessage": "vault backup from nedonote: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPushInterval": 0,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup from pc00687: {{date}}"
+  "autoCommitMessage": "vault backup from nedonote: {{date}}"
 }
