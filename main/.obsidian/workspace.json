@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Градиентный бустинг.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Градиентный бустинг.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Градиентный бустинг.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Градиентный бустинг.md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Catboost.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Градиентный бустинг.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/LightGBM.md",
+    "Pasted image 20240902152903.png",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Xgboost.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/RandomForest. Бутстрэп. Бэггинг.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Bias-variance decomposition.md",
@@ -173,10 +177,7 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
     "Courses/PyMagic/Pymagic_Content.md",
     "ML/Линейные алгоритмы.md",
-    "ML/Julia_Knowledge_base/Теория вероятностей/Теория вероятностей_изучить глубже.md",
     "ML/Julia_Knowledge_base/Теория вероятностей/Lektsii_Rodionov.pdf",
-    "ML/Julia_Knowledge_base/Julia&Ko knowledge base.md",
-    "ML/Julia_Knowledge_base/Теория вероятностей.md",
     "ML/Julia_Knowledge_base/Теория вероятностей/Tex-sample-a5.pdf",
     "ML/Julia_Knowledge_base/Теория вероятностей/probability_zhukovsky.pdf",
     "ML/Julia_Knowledge_base/Теория вероятностей/142722629.pdf",
@@ -193,7 +194,6 @@
     "Pasted image 20240610130727.png",
     "Pasted image 20240617154651.png",
     "Pasted image 20240610131928.png",
-    "Pasted image 20240610131818.png",
-    "Pasted image 20240610131749.png"
+    "Pasted image 20240610131818.png"
   ]
 }
