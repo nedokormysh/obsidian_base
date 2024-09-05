@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Ансамблирование, блендинг, стекинг.md",
+                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Ансамблирование, блендинг, стекинг.md",
+                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Ансамблирование, блендинг, стекинг.md",
+                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Ансамблирование, блендинг, стекинг.md"
+                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +148,14 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Кластерный анализ.md",
+    "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
+    "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
+    "Pasted image 20240905140115.png",
+    "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Ансамблирование, блендинг, стекинг.md",
+    "Courses/PyMagic/Вторая ступень",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Кластерный анализ.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/K-means.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Метрические алгоритмы. Кластеризация..md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Задача понижения размерности.md",
@@ -170,11 +177,7 @@
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/RandomForest. Бутстрэп. Бэггинг.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Bias-variance decomposition.md",
     "Mathematics/Мат. ожидание.md",
-    "Машинное обучение 172f240fa4fb4d9a98a0a4bd9606a4f2/Линейные модели 6e1e604d0bac4e2190947f48bf292c44.md",
-    "ML/00_ML.md",
-    "ML/Ансамблирование/Композиции, бэггинг, случайный лес.md",
     "Mathematics",
-    "ML/Разное/Мат.md",
     "ML/Untitled",
     "ML/Julia_Knowledge_base/Теория вероятностей/Lektsii_Rodionov.pdf",
     "ML/Julia_Knowledge_base/Теория вероятностей/Tex-sample-a5.pdf",
@@ -183,7 +186,6 @@
     "ML/Julia_Knowledge_base/Теория вероятностей",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация",
     "Courses/PyMagic/Третья ступень. Теоретическая база",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация",
     "Untitled.canvas",
     "Pasted image 20240827122154.png",
     "Pasted image 20240827122024.png",
@@ -192,7 +194,6 @@
     "Pasted image 20240610124410.png",
     "Pasted image 20240610130727.png",
     "Pasted image 20240617154651.png",
-    "Pasted image 20240610131928.png",
-    "Pasted image 20240610131818.png"
+    "Pasted image 20240610131928.png"
   ]
 }
