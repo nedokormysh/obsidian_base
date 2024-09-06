@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
+                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
+                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
+                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md"
+                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
     "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
+    "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/Четвёртая ступень. МO. Лин мод._Content.md",
