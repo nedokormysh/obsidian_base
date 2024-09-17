@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
     "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
     "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
     "Pasted image 20240905140115.png",
@@ -163,7 +164,6 @@
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Метод k-ближайших соседей (KNN).md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
     "Courses/OpenEDU/HSE/ML/Лекция 3 (kNN).md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Деревья решений.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Градиентный бустинг.md",
     "Radiophysics/Обозначения напряжений.md",
     "Radiophysics/04_Radiophysics.md",
