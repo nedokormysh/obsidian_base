@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN.md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
     "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
-    "Courses/Stepik/Ai_edu/Practical ML/DBSCAN.md",
+    "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
     "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
     "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
     "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
