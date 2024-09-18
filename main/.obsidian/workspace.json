@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 306.5
   },
   "right": {
     "id": "661d4933a7d2d915",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md"
               }
             }
           }
@@ -149,10 +149,17 @@
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
     "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
-    "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
     "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Кластерный анализ.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Метрические алгоритмы. Кластеризация..md",
+    "Courses/Stepik/Ai_edu/Practical ML/Метрики качества кластеризации.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
+    "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
     "Courses/Stepik/Ai_edu/Practical ML/Другие способы снижения размерности.md",
     "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
@@ -164,16 +171,9 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Huber loss.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/WAPE.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/SMAPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (парная регрессия).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Средняя абсолютная ошибка MAE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/RMSE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MSE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 3 (kNN).md",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
