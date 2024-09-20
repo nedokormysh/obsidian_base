@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
     "Courses/Stepik/Ai_edu/Practical ML/Графовая кластеризация.md",
     "Courses/Stepik/Ai_edu/Practical ML/Гомогенность, полнота и V-мера.md",
     "Courses/Stepik/Ai_edu/Practical ML/Метрики качества кластеризации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Силуэт (silhouette score).md",
     "Courses/Stepik/Ai_edu/Practical ML/ARI.md",
     "Courses/Stepik/Ai_edu/Practical ML/AMI.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
     "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
     "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
     "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
