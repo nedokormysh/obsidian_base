@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/K-means.md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md"
               }
             }
           }
@@ -148,7 +148,16 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Графовая кластеризация.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Гомогенность, полнота и V-мера.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Метрики качества кластеризации.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Силуэт (silhouette score).md",
+    "Courses/Stepik/Ai_edu/Practical ML/ARI.md",
+    "Courses/Stepik/Ai_edu/Practical ML/AMI.md",
     "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
+    "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
+    "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
     "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
@@ -156,20 +165,11 @@
     "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы отбора признаков (снижение размерности).md",
     "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
-    "Courses/Stepik/Ai_edu/Practical ML/Силуэт (silhouette score).md",
-    "Courses/Stepik/Ai_edu/Practical ML/Графовая кластеризация.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Гомогенность, полнота и V-мера.md",
-    "Courses/Stepik/Ai_edu/Practical ML/ARI.md",
-    "Courses/Stepik/Ai_edu/Practical ML/AMI.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
-    "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Кластерный анализ.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Метрические алгоритмы. Кластеризация..md",
-    "Courses/Stepik/Ai_edu/Practical ML/Метрики качества кластеризации.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
-    "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
     "Courses/Stepik/Ai_edu/Practical ML/Линейные модели регрессии.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Задача понижения размерности.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Метод k-ближайших соседей (KNN).md",
