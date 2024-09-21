@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "ML/Разное/Логистическая регрессия (machine learrrning).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "ML/Разное/Логистическая регрессия (machine learrrning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "ML/Разное/Логистическая регрессия (machine learrrning).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md"
+                "file": "ML/Разное/Логистическая регрессия (machine learrrning).md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
+    "Pasted image 20240921185736.png",
+    "Pasted image 20240921185707.png",
+    "Pasted image 20240921185549.png",
+    "ML/Разное/Логистическая регрессия.md",
+    "ML/Разное/Логистическая регрессия (machine learrrning).md",
     "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
     "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
     "Courses/Stepik/Ai_edu/Practical ML/Решающие деревья.md",
@@ -171,9 +176,6 @@
     "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы отбора признаков (снижение размерности).md",
     "Courses/Stepik/Ai_edu/Practical ML/Графовая кластеризация.md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Кластерный анализ.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
@@ -192,8 +194,6 @@
     "Pasted image 20240826165711.png",
     "Pasted image 20240826165206.png",
     "Pasted image 20240610124410.png",
-    "Pasted image 20240610130727.png",
-    "Pasted image 20240617154651.png",
-    "Pasted image 20240610131928.png"
+    "Pasted image 20240610130727.png"
   ]
 }
