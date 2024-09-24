@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
+    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
@@ -162,7 +165,6 @@
     "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
     "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
     "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
     "Courses/Stepik/Ai_edu/Practical ML/Другие способы снижения размерности.md",
@@ -175,7 +177,6 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
     "Courses/Stepik/Ai_edu/Practical ML/Линейные модели регрессии.md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Задача понижения размерности.md",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
@@ -193,7 +194,6 @@
     "Pasted image 20240827122024.png",
     "Pasted image 20240826165711.png",
     "Pasted image 20240826165206.png",
-    "Pasted image 20240610124410.png",
-    "Pasted image 20240610130727.png"
+    "Pasted image 20240610124410.png"
   ]
 }
