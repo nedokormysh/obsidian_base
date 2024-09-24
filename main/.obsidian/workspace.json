@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
     "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Другие способы снижения размерности.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Задача понижения размерности.md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы отбора признаков (снижение размерности).md",
     "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
     "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
@@ -168,15 +171,12 @@
     "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
     "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Другие способы снижения размерности.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
     "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Кластерный анализ.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Метрические алгоритмы. Кластеризация..md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Линейные модели регрессии.md",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
