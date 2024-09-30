@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/Stepik/Ai_edu/Practical ML/Catboost.md",
     "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
@@ -168,7 +169,6 @@
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Задача понижения размерности.md",
     "Courses/Stepik/Ai_edu/Practical ML/Методы отбора признаков (снижение размерности).md",
     "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
