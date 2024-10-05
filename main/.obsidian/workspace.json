@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6c1106451ef8d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Karpov/SQL/Базовые запросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3480577cc4030adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Karpov/SQL/Базовые запросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/Karpov/SQL/Базовые запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/Karpov/SQL/Базовые запросы.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md"
+                "file": "Courses/Karpov/SQL/Базовые запросы.md"
               }
             }
           }
@@ -146,10 +171,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bbac32702853d90d",
+  "active": "3480577cc4030adb",
   "lastOpenFiles": [
-    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+    "Courses/Karpov/SQL/Базовые запросы_content.md",
+    "Courses/Karpov/SQL/Базовые запросы.md",
+    "05_SQL.md",
+    "Courses/Karpov/SQL/Karpov_SQL_content.md",
+    "Courses/Karpov/SQL",
+    "Courses/Karpov",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+    "SQL",
+    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Courses/Stepik/Ai_edu/Practical ML/Catboost.md",
     "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
@@ -173,10 +205,6 @@
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
     "ML/Разное/Логистическая регрессия (machine learrrning).md",
-    "Courses/Stepik/Ai_edu/Practical ML/Силуэт (silhouette score).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Кластерный анализ.md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Метрические алгоритмы. Кластеризация..md",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
@@ -186,9 +214,6 @@
     "ML/Julia_Knowledge_base/Теория вероятностей/Tex-sample-a5.pdf",
     "ML/Julia_Knowledge_base/Теория вероятностей/probability_zhukovsky.pdf",
     "ML/Julia_Knowledge_base/Теория вероятностей/142722629.pdf",
-    "ML/Julia_Knowledge_base/Теория вероятностей",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация",
-    "Courses/PyMagic/Третья ступень. Теоретическая база",
     "Untitled.canvas",
     "Pasted image 20240827122154.png",
     "Pasted image 20240827122024.png",
