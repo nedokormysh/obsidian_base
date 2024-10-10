@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы.md",
+                "file": "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы.md",
+                "file": "Courses/Karpov/SQL/Базовые запросы/Задание.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы.md",
+                "file": "Courses/Karpov/SQL/Базовые запросы/Задание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы.md",
+                "file": "Courses/Karpov/SQL/Базовые запросы/Задание.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы.md"
+                "file": "Courses/Karpov/SQL/Базовые запросы/Задание.md"
               }
             }
           }
@@ -173,38 +173,40 @@
   },
   "active": "3480577cc4030adb",
   "lastOpenFiles": [
-    "Courses/Karpov/SQL/Базовые запросы_content.md",
-    "Courses/Karpov/SQL/Базовые запросы.md",
-    "05_SQL.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Фильтрация_данных_content.md",
+    "Courses/Karpov/SQL/Базовые запросы/Задание.md",
+    "Courses/Karpov/SQL/Базовые запросы/CASE WHEN THEN.md",
+    "Courses/Karpov/SQL/Фильтрация данных",
+    "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
+    "Courses/Karpov/SQL/Базовые запросы/Мат. функции. ROUND.md",
+    "Courses/Karpov/SQL/Без названия.md",
     "Courses/Karpov/SQL/Karpov_SQL_content.md",
+    "ML/00_ML.md",
+    "Courses/PyMagic/Pymagic_Content.md",
+    "05_SQL.md",
+    "Courses/Karpov/SQL/Базовые запросы/Арифметические действия.md",
+    "Courses/Karpov/SQL/Базовые запросы/COALESCE.md",
+    "Courses/Karpov/SQL/Базовые запросы/TimeStamp.md",
+    "Courses/Karpov/SQL/Базовые запросы/CONCAT.md",
+    "Courses/Karpov/SQL/Базовые запросы/Cast.md",
+    "Courses/Karpov/SQL/Базовые запросы/Alias.md",
+    "Courses/Karpov/SQL/Базовые запросы/Функции. Split_part.md",
+    "Courses/Karpov/SQL/Базовые запросы/Функции. Length.md",
+    "Courses/Karpov/SQL/Базовые запросы/Порядок ключевых слов.md",
+    "Courses/Karpov/SQL/Базовые запросы/LIMIT.md",
+    "Courses/Karpov/SQL/Базовые запросы/ORDER BY.md",
+    "Courses/Karpov/SQL/Базовые запросы/SELECT.md",
+    "Courses/Karpov/SQL/Базовые запросы",
+    "Courses/Karpov/SQL/Базовые запросы_content.md",
     "Courses/Karpov/SQL",
     "Courses/Karpov",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "SQL",
     "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Courses/Stepik/Ai_edu/Practical ML/Catboost.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Practical_ML_content.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Композиции решающих деревьев. Бэггинг. Бустинг.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Кластеризация данных.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Графовая кластеризация.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Метрики качества кластеризации.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Гомогенность, полнота и V-мера.md",
-    "Courses/Stepik/Ai_edu/Practical ML/AMI.md",
-    "Courses/Stepik/Ai_edu/Practical ML/ARI.md",
-    "Courses/Stepik/Ai_edu/Practical ML/DBSCAN, HDBSCAN.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Иерархическая кластеризация.md",
-    "Courses/Stepik/Ai_edu/Practical ML/K-means.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Снижение размерности данных.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Методы визуализации данных.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Другие способы снижения размерности.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Метод главных компонент (снижение размерности данных).md",
-    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Задача понижения размерности.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Методы отбора признаков (снижение размерности).md",
-    "Courses/OpenEDU/HSE/ML/Лекция 8 (Решающие деревья).md",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
-    "ML/Разное/Логистическая регрессия (machine learrrning).md",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
@@ -212,8 +214,6 @@
     "ML/Untitled",
     "ML/Julia_Knowledge_base/Теория вероятностей/Lektsii_Rodionov.pdf",
     "ML/Julia_Knowledge_base/Теория вероятностей/Tex-sample-a5.pdf",
-    "ML/Julia_Knowledge_base/Теория вероятностей/probability_zhukovsky.pdf",
-    "ML/Julia_Knowledge_base/Теория вероятностей/142722629.pdf",
     "Untitled.canvas",
     "Pasted image 20240827122154.png",
     "Pasted image 20240827122024.png",
