@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
+                "file": "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
+                "file": "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
+                "file": "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md"
+                "file": "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "3480577cc4030adb",
   "lastOpenFiles": [
+    "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Print.md",
+    "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема решения.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема проекта.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Оценка обобщающей способности.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Основные понятия.md",
-    "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Print.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Разведочный анализ данных.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
     "Courses/Stepik/Ai_edu/Practical ML/Гомогенность, полнота и V-мера.md",
     "Courses/Karpov/SQL/Karpov_SQL_content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro",
@@ -178,7 +179,6 @@
     "Courses/Karpov/SQL/Базовые запросы/Функции. Split_part.md",
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/Karpov/SQL/Фильтрация данных",
-    "Courses/Karpov/SQL/Базовые запросы/Мат. функции. ROUND.md",
     "Courses/Karpov/SQL/Базовые запросы",
     "Courses/Karpov/SQL",
     "Courses/Karpov",
