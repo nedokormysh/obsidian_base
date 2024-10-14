@@ -32,5 +32,90 @@ ORDER BY birth_date desc limit 50
 
 Обратите внимание, что в исходной таблице есть записи не только со временем доставки, но и временем принятия заказа.
 
+SELECT order_id,
+       time
+FROM   courier_actions
+WHERE  courier_id = 100
+   and action = 'deliver_order'
+ORDER BY time desc limit 10
+
+
+## **Задание:**
+
+Из таблицы `user_actions` получите id всех заказов, сделанных пользователями сервиса в августе 2022 года.
+
+Результат отсортируйте по возрастанию id заказа.
+
+Поле в результирующей таблице: `order_id`
+
+---
+
+**Пояснение:**
+
+Обратите внимание, что в исходной таблице есть записи не только со временем оформления, но и временем отмены заказа.
+
+В этой задаче вам может пригодиться функция `DATE_PART`.
+
+SELECT order_id
+FROM   user_actions
+WHERE  date_part('year', time) = '2022'
+   and date_part('month', time) = '08'
+   and action = 'create_order'
+ORDER BY order_id
+
+SELECT order_id
+FROM   user_actions
+WHERE  action = 'create_order'
+   and date_part('month', time) = 8
+   and date_part('year', time) = 2022
+ORDER BY order_id
+
+
+## **Задание:**
+
+Из таблицы `couriers` отберите id всех курьеров, родившихся в период с 1990 по 1995 год включительно.
+
+Результат отсортируйте по возрастанию id курьера.
+
+Поле в результирующей таблице: `courier_id`
+
+
+SELECT courier_id
+FROM   couriers
+WHERE  date_part('year', birth_date) between 1990
+   and 1995
+ORDER BY courier_id
+
+## **Задание:**
+
+Из таблицы `user_actions` получите информацию о всех отменах заказов, которые пользователи совершали в течение августа 2022 года по средам с 12:00 до 15:59.
+
+Результат отсортируйте по убыванию id отменённых заказов.
+
+Поля в результирующей таблице: `user_id`, `order_id`, `action`, `time`
+
+---
+
+**Пояснение:**
+
+Будьте внимательны при работе с датами и временем.
+
+Для решения задачи вам может пригодиться функция `DATE_PART`. Для получения дня недели можно указать аргумент 'dow' («day of week»):
+
+SELECT DATE_PART('dow', DATE '2022-12-31') Результат: 6.00
+
+SELECT user_id,
+       order_id,
+       action,
+       time
+FROM   user_actions
+WHERE  action = 'cancel_order'
+   and date_part('year', time) = 2022
+   and date_part('month', time) = 8
+   and date_part('dow', time) = 3
+   and date_part('hour', time) between 12
+   and 15
+ORDER BY order_id desc
+
 
 [[Фильтрация_данных_content]]
