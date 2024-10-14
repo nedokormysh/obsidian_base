@@ -8,7 +8,7 @@
 [[Функции. Split_part]]
 [[Cast]]
 [[CONCAT]]
-[[TimeStamp]]
+[[Courses/Karpov/SQL/Базовые запросы/TimeStamp]]
 [[COALESCE]]
 [[Арифметические действия]]
 [[Мат. функции. ROUND]]

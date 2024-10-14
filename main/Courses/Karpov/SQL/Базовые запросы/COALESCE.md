@@ -33,5 +33,5 @@ FROM   couriers
 ORDER BY birth_year desc, courier_id
 
 
-[[TimeStamp]]
+[[Courses/Karpov/SQL/Базовые запросы/TimeStamp]]
 [[Базовые_запросы_content]]

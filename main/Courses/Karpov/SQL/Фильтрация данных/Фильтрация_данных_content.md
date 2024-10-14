@@ -6,7 +6,7 @@
 [[LIKE]]
 [[IN BETWEEN]]
 [[NULL]]
-[[Random_tasks]]
+[[Courses/Karpov/SQL/Фильтрация данных/Random_tasks]]
 
 
 [[Karpov_SQL_content]]
