@@ -32,6 +32,23 @@ SELECT AGE(current_date, '2021-11-10')::VARCHAR
 
 Поле в результирующей таблице: `min_age`
 
+SELECT min(age(birth_date))::varchar as min_age
+FROM   couriers
+WHERE  sex = 'male'
 
+
+## **Задание:**
+
+Воспользуйтесь функцией `AGE` и рассчитайте разницу в возрасте между самым старым и самым молодым пользователями мужского пола в таблице `users`. 
+
+Разницу в возрасте выразите количеством лет, месяцев и дней, переведя её в тип `VARCHAR`. 
+
+Колонку с посчитанным значением назовите `age_diff`.
+
+Поле в результирующей таблице: `age_diff`
+
+SELECT age(max(birth_date), min(birth_date))::varchar as age_diff
+FROM   users
+WHERE  sex = 'male'
 
 [[Аггрегация_данных_content]]
