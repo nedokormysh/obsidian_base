@@ -6,6 +6,7 @@
 [[LIKE]]
 [[IN BETWEEN]]
 [[NULL]]
+[[Random_tasks]]
 
 
 [[Karpov_SQL_content]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы/CASE WHEN THEN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы/CASE WHEN THEN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы/CASE WHEN THEN.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Базовые запросы/CASE WHEN THEN.md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md"
               }
             }
           }
@@ -148,10 +148,25 @@
   },
   "active": "3480577cc4030adb",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема решения.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема проекта.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Оценка обобщающей способности.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Основные понятия.md",
+    "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Print.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Разведочный анализ данных.md",
+    "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
+    "Courses/Stepik/Intro_in_ML_from_zero",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Гомогенность, полнота и V-мера.md",
+    "Courses/Karpov/SQL/Karpov_SQL_content.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro",
+    "Courses/Karpov/SQL/Аггрегация данных/Аггрегация_данных_content.md",
     "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
+    "Courses/Karpov/SQL/Аггрегация данных",
+    "Courses/Karpov/SQL/Фильтрация данных/Фильтрация_данных_content.md",
+    "Courses/Karpov/SQL/Базовые запросы/CASE WHEN THEN.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/Karpov/SQL/Фильтрация данных/NULL.md",
-    "Courses/Karpov/SQL/Фильтрация данных/Фильтрация_данных_content.md",
     "Courses/Karpov/SQL/Фильтрация данных/IN BETWEEN.md",
     "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
     "Courses/Karpov/SQL/Фильтрация данных/Functions.md",
@@ -160,21 +175,10 @@
     "Courses/Karpov/SQL/Фильтрация данных/Text_filtration_simple.md",
     "Courses/Karpov/SQL/Фильтрация данных/WHERE.md",
     "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
-    "Courses/Karpov/SQL/Karpov_SQL_content.md",
     "Courses/Karpov/SQL/Базовые запросы/Функции. Split_part.md",
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
-    "Courses/Karpov/SQL/Базовые запросы/CASE WHEN THEN.md",
     "Courses/Karpov/SQL/Фильтрация данных",
     "Courses/Karpov/SQL/Базовые запросы/Мат. функции. ROUND.md",
-    "Courses/Karpov/SQL/Без названия.md",
-    "ML/00_ML.md",
-    "Courses/PyMagic/Pymagic_Content.md",
-    "05_SQL.md",
-    "Courses/Karpov/SQL/Базовые запросы/Арифметические действия.md",
-    "Courses/Karpov/SQL/Базовые запросы/COALESCE.md",
-    "Courses/Karpov/SQL/Базовые запросы/TimeStamp.md",
-    "Courses/Karpov/SQL/Базовые запросы/CONCAT.md",
-    "Courses/Karpov/SQL/Базовые запросы/Cast.md",
     "Courses/Karpov/SQL/Базовые запросы",
     "Courses/Karpov/SQL",
     "Courses/Karpov",
@@ -185,10 +189,6 @@
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
-    "Mathematics",
-    "ML/Untitled",
-    "ML/Julia_Knowledge_base/Теория вероятностей/Lektsii_Rodionov.pdf",
-    "ML/Julia_Knowledge_base/Теория вероятностей/Tex-sample-a5.pdf",
     "Untitled.canvas",
     "Pasted image 20240827122154.png",
     "Pasted image 20240827122024.png",
