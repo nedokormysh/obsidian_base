@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
+                "file": "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
+                "file": "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
+                "file": "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Фильтрация данных/LIKE.md"
+                "file": "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "3480577cc4030adb",
   "lastOpenFiles": [
+    "Courses/Karpov/SQL/Фильтрация данных/NULL.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
-    "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
     "Courses/Karpov/SQL/Фильтрация данных/Фильтрация_данных_content.md",
+    "Courses/Karpov/SQL/Фильтрация данных/IN BETWEEN.md",
+    "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
     "Courses/Karpov/SQL/Фильтрация данных/Functions.md",
     "Courses/Karpov/SQL/Фильтрация данных/Complex_columns.md",
     "Courses/Karpov/SQL/Фильтрация данных/Time_filtration.md",
@@ -185,9 +188,6 @@
     "Courses/Karpov/SQL/Базовые запросы/TimeStamp.md",
     "Courses/Karpov/SQL/Базовые запросы/CONCAT.md",
     "Courses/Karpov/SQL/Базовые запросы/Cast.md",
-    "Courses/Karpov/SQL/Базовые запросы/Alias.md",
-    "Courses/Karpov/SQL/Базовые запросы/Функции. Length.md",
-    "Courses/Karpov/SQL/Базовые запросы/Порядок ключевых слов.md",
     "Courses/Karpov/SQL/Базовые запросы",
     "Courses/Karpov/SQL",
     "Courses/Karpov",
