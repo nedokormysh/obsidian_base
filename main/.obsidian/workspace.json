@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3480577cc4030adb",
+            "id": "bbac32702853d90d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/Complex_agg.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/Complex_agg.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/Complex_agg.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/Complex_agg.md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md"
               }
             }
           }
@@ -138,57 +138,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3480577cc4030adb",
+  "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/Karpov/SQL/Аггрегация данных/array_length.md",
-    "Courses/Karpov/SQL/Аггрегация данных/CASE_agg.md",
-    "Courses/Karpov/SQL/Аггрегация данных/Complex_agg.md",
-    "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
-    "Courses/Karpov/SQL/Аггрегация данных/Аггрегация_данных_content.md",
-    "Courses/Karpov/SQL/Аггрегация данных/С условием.md",
-    "Courses/Karpov/SQL/Аггрегация данных/Random_tasks.md",
-    "Courses/Karpov/SQL/Базовые запросы/Cast.md",
-    "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
-    "Courses/Karpov/SQL/Фильтрация данных/Фильтрация_данных_content.md",
-    "Courses/Karpov/SQL/Аггрегация данных/TIMESTAMP.md",
-    "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
-    "Courses/Karpov/SQL/Базовые запросы/TimeStamp.md",
-    "Courses/Karpov/SQL/Аггрегация данных/COUNT.md",
-    "Courses/Karpov/SQL/Аггрегация данных/MIN, MAX.md",
-    "Courses/Karpov/SQL/Аггрегация данных/DISTINCT.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Print.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема решения.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема проекта.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Оценка обобщающей способности.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Основные понятия.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Разведочный анализ данных.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
-    "Courses/Stepik/Ai_edu/Practical ML/Гомогенность, полнота и V-мера.md",
-    "Courses/Karpov/SQL/Karpov_SQL_content.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема проекта.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Схема решения.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Разведочный анализ данных.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Основные понятия.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Оценка обобщающей способности.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro",
-    "Courses/Karpov/SQL/Аггрегация данных",
+    "Courses/Karpov/SQL/Фильтрация данных/Фильтрация_данных_content.md",
+    "Courses/Karpov/SQL/Фильтрация данных/WHERE.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Time_filtration.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Text_filtration_simple.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
+    "Courses/Karpov/SQL/Фильтрация данных/NULL.md",
+    "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
+    "Courses/Karpov/SQL/Фильтрация данных/IN BETWEEN.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Complex_columns.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Functions.md",
     "Courses/Karpov/SQL/Фильтрация данных",
+    "Courses/Karpov/SQL/Базовые запросы/Функции. Split_part.md",
+    "Courses/Karpov/SQL/Базовые запросы/Функции. Length.md",
+    "Courses/Karpov/SQL/Базовые запросы/Порядок ключевых слов.md",
+    "Courses/Karpov/SQL/Базовые запросы/Мат. функции. ROUND.md",
+    "Courses/Karpov/SQL/Базовые запросы/Задание.md",
+    "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
+    "Courses/Karpov/SQL/Базовые запросы/Арифметические действия.md",
+    "Courses/Karpov/SQL/Базовые запросы/TimeStamp.md",
     "Courses/Karpov/SQL/Базовые запросы",
+    "Courses/Karpov/SQL/Аггрегация данных",
     "Courses/Karpov/SQL",
     "Courses/Karpov",
-    "SQL",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
     "Pasted image 20240905140115.png",
     "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
+    "Mathematics",
     "Untitled.canvas",
     "Pasted image 20240827122154.png",
     "Pasted image 20240827122024.png",
