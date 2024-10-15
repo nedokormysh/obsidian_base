@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 1 (Машинное обучение).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 1 (Машинное обучение).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 1 (Машинное обучение).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 1 (Машинное обучение).md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Print.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+    "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro/Типы задач.md",
@@ -177,7 +178,6 @@
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
     "Courses/Karpov/SQL/Базовые запросы/Арифметические действия.md",
-    "Courses/Karpov/SQL/Базовые запросы/TimeStamp.md",
     "Courses/Karpov/SQL/Базовые запросы",
     "Courses/Karpov/SQL/Аггрегация данных",
     "Courses/Karpov/SQL",
