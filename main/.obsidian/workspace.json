@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbac32702853d90d",
+  "active": "f83ecdb5f41d6d08",
   "lastOpenFiles": [
-    "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
+    "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
     "ML/00_ML.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/GD+SGD.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/МНК.md",
@@ -172,12 +175,10 @@
     "Courses/Karpov/SQL/Группировка данных/Agg_group.md",
     "Courses/Karpov/SQL/Базовые запросы/Cast.md",
     "Courses/Karpov/SQL/Базовые запросы/COALESCE.md",
-    "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
-    "Courses/Karpov/SQL/Группировка данных/GROUP BY.md",
     "Courses/Karpov/SQL/Группировка данных",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_intro",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_1_intro",
     "Courses/Karpov/SQL/Фильтрация данных",
     "Courses/Karpov/SQL/Базовые запросы",
     "Courses/Karpov/SQL/Аггрегация данных",
@@ -187,7 +188,6 @@
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
     "Pasted image 20240905140115.png",
-    "Courses/PyMagic/Вторая ступень",
     "Pasted image 20240902152903.png",
     "Untitled.canvas",
     "Pasted image 20240827122154.png",
