@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/WHERE_HAVING_sub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/WHERE_HAVING_sub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/WHERE_HAVING_sub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md"
+                "file": "Courses/Karpov/SQL/Подзапросы/WHERE_HAVING_sub.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/Karpov/SQL/Подзапросы/Порядок_sub.md",
+    "Courses/Karpov/SQL/Подзапросы/WITH.md",
+    "Courses/Karpov/SQL/Подзапросы/WHERE_HAVING_sub.md",
     "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
+    "Courses/Karpov/SQL/Подзапросы/Порядок_sub.md",
     "Courses/Karpov/SQL/Подзапросы/Подзапросы_content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
     "Courses/Karpov/SQL/Подзапросы",
@@ -175,8 +177,6 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/2. Разведочный анализ данных (EDA)/EDA.md",
     "Courses/Karpov/SQL/Группировка данных/HAVING.md",
     "Courses/Karpov/SQL/Группировка данных/Array_length_group.md",
-    "Courses/Karpov/SQL/Группировка данных/Группировка_данных_content.md",
-    "Courses/Karpov/SQL/Группировка данных/Agg_group.md",
     "Courses/Karpov/SQL/Группировка данных",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
