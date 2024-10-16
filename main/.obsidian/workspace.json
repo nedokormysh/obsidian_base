@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md"
+                "file": "Courses/Karpov/SQL/Подзапросы/Подзапросы.md"
               }
             }
           }
@@ -146,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f83ecdb5f41d6d08",
+  "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Karpov/SQL/Подзапросы/Порядок_sub.md",
+    "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
+    "Courses/Karpov/SQL/Подзапросы/Подзапросы_content.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
+    "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
     "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
     "ML/00_ML.md",
@@ -173,8 +177,6 @@
     "Courses/Karpov/SQL/Группировка данных/Array_length_group.md",
     "Courses/Karpov/SQL/Группировка данных/Группировка_данных_content.md",
     "Courses/Karpov/SQL/Группировка данных/Agg_group.md",
-    "Courses/Karpov/SQL/Базовые запросы/Cast.md",
-    "Courses/Karpov/SQL/Базовые запросы/COALESCE.md",
     "Courses/Karpov/SQL/Группировка данных",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
@@ -182,8 +184,6 @@
     "Courses/Karpov/SQL/Фильтрация данных",
     "Courses/Karpov/SQL/Базовые запросы",
     "Courses/Karpov/SQL/Аггрегация данных",
-    "Courses/Karpov/SQL",
-    "Courses/Karpov",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
