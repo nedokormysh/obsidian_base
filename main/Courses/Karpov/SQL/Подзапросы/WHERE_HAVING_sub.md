@@ -35,3 +35,17 @@ WHERE column = (SELECT MAX(column) FROM table)
 Результат отсортируйте по убыванию id товара.
 
 Поля в результирующей таблице: `product_id`, `name`, `price`
+
+SELECT *
+FROM   products
+WHERE  price != (SELECT min(price)
+                 FROM   products)
+ORDER BY product_id desc
+
+SELECT product_id,
+       name,
+       price
+FROM   products
+WHERE  price != (SELECT min(price)
+                 FROM   products)
+ORDER BY product_id desc
