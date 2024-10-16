@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/After_SELECT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/After_SELECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/After_SELECT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Аггрегация данных/AGE.md"
+                "file": "Courses/Karpov/SQL/Подзапросы/After_SELECT.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Karpov/SQL/Подзапросы/IN_sub.md",
+    "Courses/Karpov/SQL/Подзапросы/After_SELECT.md",
     "Courses/Karpov/SQL/Подзапросы/COALESCE COAT.md",
     "Courses/Karpov/SQL/Подзапросы/NOW.md",
+    "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
     "Courses/Karpov/SQL/Подзапросы/Arithmetics_sub.md",
     "Courses/Karpov/SQL/Подзапросы/WHERE_HAVING_sub.md",
     "Courses/Karpov/SQL/Подзапросы/WITH.md",
@@ -174,9 +177,6 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (парная регрессия).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MSE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Logcosh.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/RMSE.md",
     "Courses/Karpov/SQL/Группировка данных",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
