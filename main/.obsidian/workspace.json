@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md"
+                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
-    "Courses/Karpov/SQL/Подзапросы/WITH.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/WAPE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/SMAPE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (парная регрессия).md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Средняя абсолютная ошибка MAE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/RMSE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MSE.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Линейная регрессия.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
     "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
+    "Courses/Karpov/SQL/Подзапросы/WITH.md",
     "Courses/Karpov/SQL/Подзапросы/After_SELECT.md",
     "Courses/Karpov/SQL/Подзапросы/Порядок_sub.md",
     "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
@@ -163,20 +174,9 @@
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
-    "Courses/OpenEDU/HSE/ML/Лекция 5 (Градиентный спуск).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
     "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
     "ML/00_ML.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/GD+SGD.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/МНК.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Huber loss.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/WAPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/SMAPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Средняя абсолютная ошибка MAE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (множественная регрессия).md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/Коэффициент детерминации (парная регрессия).md",
     "Courses/Karpov/SQL/Группировка данных",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
