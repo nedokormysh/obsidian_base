@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md"
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Обучение модели.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/SVM.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/WAPE.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/SMAPE.md",
@@ -168,15 +174,9 @@
     "Courses/Karpov/SQL/Подзапросы/COALESCE COAT.md",
     "Courses/Karpov/SQL/Подзапросы/NOW.md",
     "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
-    "Courses/Karpov/SQL/Подзапросы/Arithmetics_sub.md",
-    "Courses/Karpov/SQL/Подзапросы/WHERE_HAVING_sub.md",
-    "Courses/Karpov/SQL/Подзапросы/Подзапросы_content.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg/Метрики качества регрессии.md",
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
-    "Courses/OpenEDU/HSE/ML/Лекция 4 (Линейная регрессия).md",
-    "ML/00_ML.md",
     "Courses/Karpov/SQL/Группировка данных",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro",
     "Courses/Stepik/Intro_in_ML_from_zero",
