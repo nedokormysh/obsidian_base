@@ -21,3 +21,24 @@ FROM orders
 Результат отсортируйте сначала по убыванию прежней цены в колонке `price`, затем по возрастанию id товара.
 
 Поля в результирующей таблице: `product_id`, `name`, `price`, `new_price`
+
+SELECT product_id, name, price,
+    CASE
+        WHEN price >= (SELECT AVG(price) FROM products) + 50 THEN price - price * 0.15
+        WHEN price <= (SELECT AVG(price) FROM products) - 50 THEN price - price * 0.1
+        ELSE price
+    END AS new_price
+FROM products
+ORDER BY price DESC, product_id
+
+
+WITH avg_price as (SELECT round(avg(price), 2) as price
+                   FROM   products)
+SELECT product_id, name, price,
+    CASE
+        WHEN price >= (SELECT * FROM avg_price) + 50 THEN price - price * 0.15
+        WHEN price <= (SELECT * FROM avg_price) - 50 THEN price - price * 0.1
+        ELSE price
+    END AS new_price
+FROM products
+ORDER BY price DESC, product_id

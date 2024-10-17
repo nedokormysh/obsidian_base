@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/WITH.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/WITH.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/WITH.md",
+                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Karpov/SQL/Подзапросы/WITH.md"
+                "file": "Courses/Karpov/SQL/Подзапросы/CASE_sub.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "bbac32702853d90d",
   "lastOpenFiles": [
+    "Courses/Karpov/SQL/Подзапросы/WITH.md",
     "Courses/Karpov/SQL/Подзапросы/CASE_sub.md",
     "Courses/Karpov/SQL/Подзапросы/After_SELECT.md",
     "Courses/Karpov/SQL/Подзапросы/Порядок_sub.md",
-    "Courses/Karpov/SQL/Подзапросы/WITH.md",
     "Courses/Karpov/SQL/Подзапросы/Подзапросы.md",
     "Courses/Karpov/SQL/Подзапросы/IN_sub.md",
     "Courses/Karpov/SQL/Подзапросы/COALESCE COAT.md",
