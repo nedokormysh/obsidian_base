@@ -197,3 +197,169 @@ for i in [2, 4, 5]:
 - с - шаг (по умолчанию с=1)
 
 Если же a≥b, то цикл не будет выполнен.
+
+```
+# Массив значений от 0 до 10 (не включительно)
+
+print(range(n))
+
+print(list(range(n)))
+```
+```
+[x*2 for x in range(1, 10)]
+```
+
+## break
+
+Оператор break досрочно прерывает цикл
+
+```
+# Оператор break досрочно прерывает цикл
+
+  
+
+lst = []
+ 
+
+for i in range(1, 10):
+
+    print(f'i = {i}')
+    if 2 < i < 5:
+        print(f'break and i = {i}\n')
+        break
+    else:
+        print(f'append and i = {i}\n')
+        lst.append(i) 
+
+print(lst)
+i = 1
+append and i = 1
+i = 2
+append and i = 2
+i = 3
+break and i = 3 [1, 2]
+```
+Если циклов или условий несколько, то он прервет только то условие/цикл, в котором находился
+```
+lst = []
+
+lst2 = []
+
+  
+
+for i in range(3, 5):
+
+    for j in range(1, 10):
+
+        print(f'{i = }, {j = }\n')
+
+        if j > 5:
+
+            print(f'append and {i = }, {j = }')
+
+            lst2.append(i)
+
+        break
+
+    lst.append(i)
+
+  
+
+print(lst)
+
+print(lst2)
+
+###
+i = 3, j = 1
+i = 4, j = 1
+[3, 4]
+[]
+```
+
+## for/while-else
+
+**else** помимо конструкции if-else можно еще использовать для циклом for/while. else в этих случаях будет проверять, был ли произведен выход из цикла при помощи **break**, либо выход из цикла был естественным. **Если выход был естественным**, то выполняется все то, что находится **внутри блока** else.
+
+```
+result = []
+
+  
+
+for i in range(1, 15):
+
+    if i == 14:
+
+        break
+
+# заходим в блок, если был выход из цикла
+
+else:
+
+    result.append(i)
+
+# что будет?
+
+result
+[]
+```
+
+```
+result = []
+
+  
+
+for i in range(1, 15):
+
+    if i == 5:
+
+        print(f"{i = }")
+
+# заходим в блок, если был выход из цикла
+
+else:
+
+    result.append(i)
+
+# что будет?
+
+result
+
+i = 5
+[14]
+```
+
+## continue
+
+Оператор continue начинает следующий проход цикла, минуя оставшееся тело цикла (for или while)
+```
+i = 0
+
+  
+
+while i < 10:
+
+    i += 1
+
+    if i == 5:
+
+        print(f'continue and i: {i}')
+
+        continue
+
+    print(f'Вывод: {i}')
+
+
+###
+Вывод: 1
+Вывод: 2
+Вывод: 3
+Вывод: 4
+continue and i: 5
+Вывод: 6
+Вывод: 7
+Вывод: 8
+Вывод: 9
+Вывод: 10
+```
+
+[[Вторая ступень. Основы Python и SQL._Content]]
