@@ -129,7 +129,19 @@ from employees
 where birth_date in ('1957-05-23', '1959-10-01')
 limit 10
 ```
-1) Агрегатные функции – это функции, которые выполняют на наборе данных
+11) Из даты **типа TEXT** вы можете получить месяц/день год и так далее при помощи метода **strftime**
+```
+select *, strftime('%m', birth_date) as month
+from employees
+limit 3
+```
+
+```
+select *, strftime('%d', birth_date) as day
+from employees
+limit 10
+```
+12) Агрегатные функции – это функции, которые выполняют на наборе данных
 арифметические вычисления и возвращают итоговое значение.
 Если хотим например посмотреть среднюю зп по департаменту, то тут уже нужно
 применять с GROUP BY, если просто среднюю зп по всем департаментам, то в SELECT
@@ -146,25 +158,77 @@ SELECT COUNT(ProductID)
 FROM Orders
 ```
 
-10) В SQL подзапросы (внутренние/вложенные запросы) — это запрос внутри другого запроса SQL, который вложен в условие WHERE.
+13) В SQL подзапросы (внутренние/вложенные запросы) — это запрос внутри другого запроса SQL, который вложен в условие WHERE.
+
 • Подзапрос используется для возврата данных, которые будут использоваться в основном запросе в качестве условия для дальнейшей фильтрации данных, подлежащих извлечению.
 • Подзапросы могут использоваться с инструкциями SELECT, INSERT, UPDATE и DELETE вместе с операторами типа =, <,>,> =, <=, IN, BETWEEN и т. д. Подзапросы должны быть заключены в круглые скобки.
 Пример: необходимо вывести все строки с заказами, где цена продукта, больше чем средняя цена по всем заказам.
 
+```
 SELECT *
 FROM Orders
 WHERE Price >(
 	SELECT AVG(Price)
 	FROM Orders
 )
+```
+
+Вывести вторую по счету максимальную зарплату сотрудников. Задача аналогичная как и с limit, но решается другим способом
+
+```
+select max(salary) as max_salary
+from salaries
+where salary not in (
+    -- число
+    select max(salary)
+    from salaries
+)
+```
 
 11) Соединение таблиц производится при помощи оператора JOIN. ON – позволяет прописать поля, по которым мы хотим соединить таблицы. В конкретном примере, мы соединили только те строки, которые присутствуют в обеих таблицах при помощи INNER JOIN (INNER ó JOIN). Если нам необходимо добавить условия по полям, то используют OR/AND.
 
+```
 SELECT c.CustomerID, o.ProductID, o.Counts, o.FirstName, o.Price
 FROM Orders o
 INNER JOIN Customers c ON c.FirstName = o.FirstName
+```
 
+Добавим в таблицу employees с сотрудниками их значение зарплаты из таблицы salaries (используем as - алиас для сокращения).
 
+```
+SELECT e.*, s.salary
+from employees as e
+left join salaries as s on e.emp_no = s.emp_no
+limit 5;
+```
+
+Если хотим задать дополнительное условие, например вывести только инженеров, то также прописваем WHERE
+
+```
+SELECT e.*, s.salary
+from employees as e
+left join salaries as s on e.emp_no = s.emp_no
+where e.title = 'Engineer'
+limit 5;
+```
+- 1) способ. Находим по названию title
+```
+SELECT e.*, s.salary
+from employees as e
+left join salaries as s on e.emp_no = s.emp_no
+where e.title = 'Manager'
+limit 5;
+```
+Попробуем найти зарплату только у менеджеров и соединить необходимые таблицы
+
+- 2) способ. Соединим с таблицей dept_manager, где содержатся только менеджеры. Такой способ предпочтительнее, если в title могут быть отличные от Manager названия специализаций (а также с ошибками)
+```
+SELECT e.*, m.dept_name, s.salary
+from employees as e
+inner join dept_manager m on e.emp_no = m.emp_no
+left join salaries as s on m.emp_no = s.emp_no
+limit 5;
+```
 ## Логический порядок операций
 Логический порядок операций для SQL-запроса:
 1. FROM, включая JOINs
@@ -178,3 +242,7 @@ INNER JOIN Customers c ON c.FirstName = o.FirstName
 9. ORDER BY
 10. LIMIT и OFFSET
 
+https://habr.com/ru/articles/461567/
+
+
+[[Вторая ступень. Основы Python и SQL._Content]]

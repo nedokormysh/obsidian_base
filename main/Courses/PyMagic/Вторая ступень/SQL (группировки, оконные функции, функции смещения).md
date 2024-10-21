@@ -3,26 +3,80 @@
 
 Для группировки данных по какому-либо полю и дальнейшей агрегации значений (например, группировка по имени и агрегация поля цена), применяют функцию GROUP BY
 
+```
 SELECT CustomerID, FirstName, sum(Price) as sum_price
 FROM Orders
 GROUP BY CustomerID, FirstName
+```
+1) Посчитаем кол-во мужчин и женщин
+```
+SELECT gender, count(gender) as cnt_gender
+from emp_test as e
+group by gender
+```
+2) Посчитаем кол-во мужчин и женщин в разрезе title
+```
+SELECT title, gender, count(gender) as cnt_empl
+from emp_test as e
+group by title, gender
+```
+3) Найдем кол-во уникальных сотрудников для каждой должности из таблицы employees. Мы сгруппировали по полю title (тут будут выведены только уникальные значения в этой колонке) и далее если полей несколько в группе, то они объединяются (суммируются значения, находится среднее и так далее)
+```
+SELECT title, count(distinct emp_no) as cnt_emp
+from employees as e
+group by title;
+```
+4) как мне подсчитать максимальное значение id сотрудника в каждом департаменте (dept_emp)?
+```
+select dept_name, max(emp_no) as max_emp
+from dept_emp
+group by dept_name
+```
+5) Найти максимальную зарплату менеджеров в каждом из департаментов.
+Для примера также применили cast(d.emp_no as int) - где **cast** это переводит в заданный тип данных
 
+```
+SELECT distinct d.dept_name, max(s.salary) as max_salary
+from salaries s
+inner join dept_manager d on cast(d.emp_no as int) = s.emp_no
+group by d.dept_name;
+```
 # Having 
 
 Для вывода строк по условию при применении ГРУППИРОВКИ, используют HAVING.
 Например, мы сгруппировали клиентов по их id и имени, в качестве агрегата использовали общую сумму их покупок. Далее нам нужно вывести только тех, чья общая сумма больше 1000.
 
+```
 Select CustomersID, FirstName, sum(Price) as sum_price
 FROM Orders
 Group By CustomersID, FirstName
 Having sum(Price) > 1000
+```
+1) Найти максимальную зарплату менеджеров в каждом из департаментов, где максимальная зарплата должна быть больше 50000
+```
+SELECT distinct d.dept_name, max(s.salary) as max_salary
+from salaries s
+inner join dept_manager d on d.emp_no = s.emp_no
+group by d.dept_name
+```
 
+having max(s.salary)>50000
+2) Можем добавить еще одно условие к предыдущему заданию: отсортировать максимальные зарплаты в порядке возрастания
+```
+SELECT distinct d.dept_name, max(s.salary)
+from salaries s
+inner join dept_manager d on d.emp_no = s.emp_no
+group by d.dept_name
+having max(s.salary)>50000
+order by s.salary
+```
 # Оконные функции
 
 Оконные функции отлично помогают в вычислении над заданным набором строк:
 объединение в группы по определенному признаку, например идентификатору.
 Результаты мы можем добавлять к исходной выборке. Этот функционал очень полезен для построения аналитических отчетов, расчета скользящего среднего и нарастающих итогов, а также для расчетов различных моделей атрибуции. Окно определяется с помощью обязательной инструкции OVER()
 
+```
 Select
 
 over(
@@ -30,6 +84,7 @@ partition by
 order by
 rows
 )
+```
 
 ## Виды оконных функций:
 
@@ -46,16 +101,20 @@ rows
 
 Посчитаем общее число проданных товаров и запишем все в новую колонку. Заметим, что во всех строках количество совпадает, так как мы еще не применяли группировку PARTITION BY
 
+```
 Select *
 	sum(counts) over() as 'sum counts'
 From Orders
+```
 
 Сделаем аналогичное действие, но уже в рамках столбца FirstName, использовав PARTITION
 BY, который помогает группировать по заданному полю и записывается внутри скобок в OVER:
 
+```
 Select *
 	sum(counts) over(partition by firstName) as 'sum counts'
 From Orders
+```
 
 Дополнительно сделаем сортировку при помощи ORDER BY по полю Price. Когда мы добавили ORDER BY, то таким образом мы указали, что хотим видеть сумму не всех значений в окне, а для каждого значения Counts сумму со всеми предыдущими в группе значениями поля Id. То есть мы посчитали нарастающий итог. Если значения в Id будут одинаковы, то и нарастающая сумма в соответствующих строках тоже
 

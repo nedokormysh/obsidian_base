@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
+                "file": "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL (основы синтаксиса, условия, join)"
+              "title": "SQL (группировки, оконные функции, функции смещения)"
             }
           }
         ]
