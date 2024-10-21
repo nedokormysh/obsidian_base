@@ -482,4 +482,6 @@ def similar(list_1: list, list_2: list) -> set:
     return set(sim)
 ```
 
+[[Сложность]]
+
 [[Вторая ступень. Основы Python и SQL._Content]]
