@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "169ccab9cd902e54",
+        "id": "4dcbed8b16cfd4a1",
         "type": "tabs",
         "children": [
           {
-            "id": "bbac32702853d90d",
+            "id": "b6a99b139305aeef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Задача оценивания вероятностей. Логистическая регрессия.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Задача оценивания вероятностей. Логистическая регрессия"
+              "title": "New tab"
             }
           }
         ]
@@ -162,10 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbac32702853d90d",
+  "active": "f83ecdb5f41d6d08",
   "lastOpenFiles": [
-    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Переход от регрессии к классификации.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков",
+    "Courses/Stepik/Ai_edu/Practical ML/Untitled.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Базовые методы классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Задача оценивания вероятностей. Логистическая регрессия.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Переход от регрессии к классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Стохастический градиентный спуск.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Обучение модели.md",
@@ -188,9 +187,6 @@
     "Courses/Karpov/SQL/Подзапросы/Random.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/SVM.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/WAPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/MAPE.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/3. Линейная регрессия/SMAPE.md",
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
