@@ -11,10 +11,14 @@
             "id": "b6a99b139305aeef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Python (data structures, conditions and loops)"
             }
           }
         ]
@@ -158,8 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f83ecdb5f41d6d08",
+  "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
+    "Courses/PyMagic/Pymagic_Content.md",
+    "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
+    "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
+    "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков",
     "Courses/Stepik/Ai_edu/Practical ML/Untitled.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Базовые методы классификации.md",
@@ -183,10 +192,6 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/5. Метрики в задачах классификации/Precision & recall.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/5. Метрики в задачах классификации/Accuracy.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
-    "Courses/Karpov/SQL/Подзапросы/Random.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/SVM.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
@@ -195,7 +200,6 @@
     "Courses/Stepik/Intro_in_ML_from_zero",
     "Courses/Stepik/Ai_edu/Practical ML/Week_1_intro",
     "Courses/Karpov/SQL/Фильтрация данных",
-    "Courses/Karpov/SQL/Базовые запросы",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
