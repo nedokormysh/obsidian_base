@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Метод опорных векторов.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Метод опорных векторов"
+              "title": "Метод ближайших соседей"
             }
           }
         ]
@@ -164,18 +164,25 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
-    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Переход от регрессии к классификации.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Интегральные метрики классификации.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
+    "Pasted image 20241022162343.png",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Ядровой SVM.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Метод опорных векторов.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Переход от регрессии к классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Кодирование категориальных признаков.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Untitled",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Нормализация данных.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Работа с пропущенными значениями.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Базовые методы классификации.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Matplotlib.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
     "Pasted image 20241022125425.png",
@@ -190,12 +197,7 @@
     "Courses/PyMagic/Вторая ступень/Python (OOP, recursion, algorithm complexity).md",
     "Courses/PyMagic/Вторая ступень/Функции.md",
     "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
-    "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
-    "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
-    "Programming/Разное/Сложность.md",
-    "ML/00_ML.md",
     "Programming/Разное",
-    "Programming/06_Programming.md",
     "Programming",
     "Pasted image 20241021140347.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков",
@@ -203,13 +205,11 @@
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
-    "Courses/Karpov/SQL/Группировка данных",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
     "Pasted image 20240905140115.png",
     "Pasted image 20240902152903.png",
-    "Untitled.canvas",
-    "Pasted image 20240827122154.png"
+    "Untitled.canvas"
   ]
 }
