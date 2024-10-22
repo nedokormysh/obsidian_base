@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Работа с пропущенными значениями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 7 (Логистическая регрессия Метод опорных векторов)"
+              "title": "Работа с пропущенными значениями"
             }
           }
         ]
@@ -164,7 +164,10 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Базовые методы классификации.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Работа с пропущенными значениями.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Matplotlib.md",
+    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
     "Pasted image 20241022125425.png",
@@ -191,13 +194,10 @@
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков",
     "Courses/Stepik/Ai_edu/Practical ML/Untitled.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Базовые методы классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Задача оценивания вероятностей. Логистическая регрессия.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Переход от регрессии к классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Стохастический градиентный спуск.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Обучение модели.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск для функции нескольких переменных.md",
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
