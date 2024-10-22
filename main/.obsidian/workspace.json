@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Matplotlib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Математический анализ"
+              "title": "Matplotlib"
             }
           }
         ]
@@ -164,6 +164,12 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Matplotlib.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
+    "Pasted image 20241022125425.png",
+    "Pasted image 20241022120942.png",
+    "Pasted image 20241022120549.png",
     "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
     "Courses/Karpov/SQL/Аггрегация данных/С условием.md",
     "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
@@ -174,8 +180,6 @@
     "Courses/PyMagic/Вторая ступень/Функции.md",
     "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
     "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
     "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
     "Programming/Разное/Сложность.md",
     "ML/00_ML.md",
@@ -194,7 +198,6 @@
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Обучение модели.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск для функции нескольких переменных.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск.md",
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
@@ -207,9 +210,6 @@
     "Pasted image 20240905140115.png",
     "Pasted image 20240902152903.png",
     "Untitled.canvas",
-    "Pasted image 20240827122154.png",
-    "Pasted image 20240827122024.png",
-    "Pasted image 20240826165711.png",
-    "Pasted image 20240826165206.png"
+    "Pasted image 20240827122154.png"
   ]
 }
