@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/Функции.md",
+                "file": "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Функции"
+              "title": "AGE"
             }
           }
         ]
@@ -164,21 +164,24 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/Karpov/SQL/Аггрегация данных/С условием.md",
+    "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
+    "Courses/Karpov/SQL/Группировка данных/Array_length_group.md",
+    "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
     "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
+    "Courses/PyMagic/Вторая ступень/Python (OOP, recursion, algorithm complexity).md",
+    "Courses/PyMagic/Вторая ступень/Функции.md",
     "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
     "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
     "Courses/PyMagic/Вторая ступень/SQL (группировки, оконные функции, функции смещения).md",
-    "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
-    "Courses/PyMagic/Вторая ступень/Python (OOP, recursion, algorithm complexity).md",
     "Programming/Разное/Сложность.md",
     "ML/00_ML.md",
     "Programming/Разное",
     "Programming/06_Programming.md",
     "Programming",
     "Pasted image 20241021140347.png",
-    "Courses/PyMagic/Вторая ступень/Функции.md",
     "Courses/PyMagic/Pymagic_Content.md",
     "Courses/PyMagic/Пятая ступень. МО. Алгоритмы на основе деревьев. Кластеризация/Пятая ступень. МО. Композиции. Кластеризация._Content.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков",
@@ -192,9 +195,6 @@
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск для функции нескольких переменных.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent/Градиентный спуск.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/6. Регуляризация.Кросс-валидация/Поиск параметров по сетке.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/6. Регуляризация.Кросс-валидация/Регуляризация. Кросс-валидация. Поиск параметров.md",
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
