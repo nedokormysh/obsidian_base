@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Линейная алгебра.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RANDOM SQL"
+              "title": "Линейная алгебра"
             }
           }
         ]
@@ -164,6 +164,19 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Линейная алгебра.md",
+    "Courses/Karpov/SQL/Группировка данных/HAVING.md",
+    "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
+    "Courses/Karpov/SQL/Фильтрация данных/NULL.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Text_filtration_simple.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Time_filtration.md",
+    "Courses/Karpov/SQL/Фильтрация данных/WHERE.md",
+    "Courses/Karpov/SQL/Фильтрация данных/IN BETWEEN.md",
+    "Courses/Karpov/SQL/Подзапросы/NOW.md",
+    "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
+    "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
@@ -181,22 +194,9 @@
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Нормализация данных.md",
     "Courses/Stepik/Intro_in_ML_from_zero/Python_intro/Переменные.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Работа с пропущенными значениями.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Базовые методы классификации.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Matplotlib.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
     "Pasted image 20241022125425.png",
     "Pasted image 20241022120942.png",
     "Pasted image 20241022120549.png",
-    "Courses/Karpov/SQL/Аггрегация данных/AGE.md",
-    "Courses/Karpov/SQL/Аггрегация данных/С условием.md",
-    "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
-    "Courses/Karpov/SQL/Группировка данных/Array_length_group.md",
-    "Courses/PyMagic/Вторая ступень/SQL (основы синтаксиса, условия, join).md",
-    "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
-    "Courses/PyMagic/Вторая ступень/Python (OOP, recursion, algorithm complexity).md",
-    "Courses/PyMagic/Вторая ступень/Функции.md",
-    "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
     "Programming/Разное",
     "Programming",
     "Pasted image 20241021140347.png",
