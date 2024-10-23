@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
+                "file": "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Метод ближайших соседей"
+              "title": "Многоклассовая классификация"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
-    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
+    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
