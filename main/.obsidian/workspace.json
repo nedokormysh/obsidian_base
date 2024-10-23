@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
+                "file": "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 7 (Логистическая регрессия Метод опорных векторов)"
+              "title": "RANDOM SQL"
             }
           }
         ]
@@ -164,10 +164,10 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Интегральные метрики классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",

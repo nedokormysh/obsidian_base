@@ -1,3 +1,5 @@
+# **Restricting and Sorting Data**
+
 
 1) Таблица Employees. Получить список с информацией обо всех сотрудниках
 
@@ -95,4 +97,26 @@ WHERE manager_id IS NOR NULL
 ```
 SELECT first_name || '('|| LOWER (job_id)|| ')' employee 
 FROM employees
+```
+
+# **Using Single-Row Functions to Customize Output**
+
+1) Таблица Employees. Получить список всех сотрудников у которых длина имени больше 10 букв
+```
+SELECT * 
+FROM emloyees
+WHERE array_length(first_name, 1) > 10
+```
+
+2) Таблица Employees. Получить список всех сотрудников у которых в имени есть буква 'b' (без учета регистра)
+```
+SELECT * 
+FROM emloyees
+WHERE first_name LIKE '%b%' OR first_name LIKE '%B%'
+```
+
+```
+SELECT *
+FROM employees
+WHERE INSTR (LOWER (first_name), 'b') > 0;
 ```
