@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
+                "file": "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика 1"
+              "title": "Метод ближайших соседей"
             }
           }
         ]
@@ -164,10 +164,11 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "Pasted image 20241024124409.png",
     "Pasted image 20241024120019.png",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Numpy.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Линейная алгебра.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
@@ -186,7 +187,6 @@
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
     "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Интегральные метрики классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
@@ -209,7 +209,6 @@
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
     "Pasted image 20240921185549.png",
-    "Pasted image 20240905140115.png",
     "Untitled.canvas"
   ]
 }
