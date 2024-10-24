@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Numpy.md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numpy"
+              "title": "Статистика 1"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Линейная алгебра.md",
+    "Pasted image 20241024120019.png",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Numpy.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Линейная алгебра.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
     "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
     "Courses/Karpov/SQL/Группировка данных/HAVING.md",
@@ -189,11 +192,8 @@
     "Pasted image 20241022162343.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Ядровой SVM.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Метод опорных векторов.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif/Переход от регрессии к классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Кодирование категориальных признаков.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Untitled",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Нормализация данных.md",
     "Pasted image 20241022125425.png",
     "Pasted image 20241022120942.png",
     "Pasted image 20241022120549.png",
