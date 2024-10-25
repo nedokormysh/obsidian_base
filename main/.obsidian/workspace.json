@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4dcbed8b16cfd4a1",
+        "id": "c72cec268a27284f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a99b139305aeef",
+            "id": "aa4580c1b175a740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика 2"
+              "title": "Статистика 1"
             }
           }
         ]
@@ -52,8 +52,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#𝑋",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,12 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6a99b139305aeef",
+  "active": "aa4580c1b175a740",
   "lastOpenFiles": [
+    "2024-10-25.md",
+    "Untitled.canvas",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
     "Pasted image 20241025152608.png",
     "Pasted image 20241025150618.png",
     "ML/Разное/доверительный интервал.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Pandas.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
@@ -193,7 +194,6 @@
     "Courses/Karpov/SQL/Фильтрация данных/IN BETWEEN.md",
     "Courses/Karpov/SQL/Подзапросы/NOW.md",
     "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
-    "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
     "Pasted image 20241022162343.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
@@ -209,8 +209,6 @@
     "Courses/Karpov/SQL/Подзапросы",
     "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
-    "Pasted image 20240921185736.png",
-    "Pasted image 20240921185707.png",
-    "Untitled.canvas"
+    "Pasted image 20240921185736.png"
   ]
 }
