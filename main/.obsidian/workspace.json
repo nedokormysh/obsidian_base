@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#𝑋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,6 +165,8 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Pasted image 20241025152608.png",
+    "Pasted image 20241025150618.png",
     "ML/Разное/доверительный интервал.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Pandas.md",
@@ -191,7 +194,6 @@
     "Courses/Karpov/SQL/Подзапросы/NOW.md",
     "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
     "Pasted image 20241022162343.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
@@ -209,7 +211,6 @@
     "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg",
     "Pasted image 20240921185736.png",
     "Pasted image 20240921185707.png",
-    "Pasted image 20240921185549.png",
     "Untitled.canvas"
   ]
 }
