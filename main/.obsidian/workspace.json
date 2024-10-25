@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Логистическая регрессия"
+              "title": "Статистика 2"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Pandas.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
+    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
@@ -189,11 +192,8 @@
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
     "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Интегральные метрики классификации.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
     "Pasted image 20241022162343.png",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Ядровой SVM.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class/Метод опорных векторов.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Untitled",
     "Pasted image 20241022125425.png",
