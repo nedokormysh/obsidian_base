@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
+                "file": "ML/Разное/доверительный интервал.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика 2"
+              "title": "доверительный интервал"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "b6a99b139305aeef",
   "lastOpenFiles": [
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Pandas.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
+    "ML/Разное/доверительный интервал.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Pandas.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
@@ -191,7 +192,6 @@
     "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/7. Многоклассовая классификация/Многоклассовая классификация.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 6 (Линейный классификатор).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
     "Pasted image 20241022162343.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
