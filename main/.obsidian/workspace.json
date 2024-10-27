@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Статистика 1"
             }
+          },
+          {
+            "id": "eb081132b6f03cd1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +56,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -154,15 +167,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aa4580c1b175a740",
+  "active": "eb081132b6f03cd1",
   "lastOpenFiles": [
     "2024-10-25.md",
     "Untitled.canvas",
