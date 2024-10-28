@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/AB тестирование.md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AB тестирование"
+              "title": "Статистика 1"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "File explorer"
             }
           },
           {
@@ -154,24 +154,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
     "Pasted image 20241027190129.png",
+    "Pasted image 20241027184028.png",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 3.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/AB тестирование.md",
-    "Pasted image 20241027184028.png",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "2024-10-25.md",
     "Untitled.canvas",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
     "Pasted image 20241025152608.png",
     "Pasted image 20241025150618.png",
     "ML/Разное/доверительный интервал.md",
@@ -181,6 +180,7 @@
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "Pasted image 20241024124409.png",
     "Pasted image 20241024120019.png",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
