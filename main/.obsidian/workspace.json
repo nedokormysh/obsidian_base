@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
+                "file": "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RANDOM SQL"
+              "title": "Доверительный интервал"
             }
           }
         ]
@@ -164,15 +164,21 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
+    "Courses/Stepik/Statistics/Statistics_1/ЦПТ.md",
+    "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
+    "Courses/Stepik/Statistics/Statistics_1/Statisctics_1_content.md",
+    "Courses/Stepik/Statistics/Statistics_1/Нормальное распределение.md",
+    "Courses/Karpov/SQL/Группировка данных/Группировка_данных_content.md",
+    "Courses/Karpov/SQL/Karpov_SQL_content.md",
+    "05_SQL.md",
+    "ML/00_ML.md",
+    "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
     "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
     "Courses/Karpov/SQL/Фильтрация данных/Time_filtration.md",
     "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
     "Courses/Karpov/SQL/Базовые запросы/Арифметические действия.md",
-    "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
-    "Courses/Stepik/Statistics/Statistics_1/Statisctics_1_content.md",
-    "Courses/Stepik/Statistics/Statistics_1/Нормальное распределение.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "Courses/Stepik/Statistics/Statistics_1",
     "Courses/Stepik/Statistics",
@@ -191,14 +197,8 @@
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
     "Pasted image 20241024124409.png",
     "Pasted image 20241024120019.png",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Numpy.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Линейная алгебра.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
-    "Courses/Karpov/SQL/Группировка данных/HAVING.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
     "Pasted image 20241022162343.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
