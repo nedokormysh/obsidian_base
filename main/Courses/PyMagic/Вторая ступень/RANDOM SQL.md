@@ -327,5 +327,89 @@ WHERE DATE_PART('year', hire_date) = 2007 AND
 ```
 SELECT *  FROM employees WHERE hire_date BETWEEN TO_DATE ('01.02.2007', 'DD.MM.YYYY')                     AND LAST_DAY (TO_DATE ('01.02.2007', 'DD.MM.YYYY'));
 
-SELECT *  FROM employees WHERE to_char(hire_date,'MM.YYYY') = '02.2007'; 
+SELECT *  FROM employees WHERE to_char(hire_date,'MM.YYYY') = '02.2007';
+```
+
+7) Таблица DUAL. Вывезти актуальную дату, + секунда, + минута, + час, + день, + месяц, + год
+```
+SELECT
+    CURRENT_TIMESTAMP AS current_timestamp,
+    CURRENT_TIMESTAMP + INTERVAL '1 second' AS plus_1_second,
+    CURRENT_TIMESTAMP + INTERVAL '1 minute' AS plus_1_minute,
+    CURRENT_TIMESTAMP + INTERVAL '1 hour' AS plus_1_hour,
+    CURRENT_TIMESTAMP + INTERVAL '1 day' AS plus_1_day,
+    CURRENT_TIMESTAMP + INTERVAL '1 month' AS plus_1_month,
+    CURRENT_TIMESTAMP + INTERVAL '1 year' AS plus_1_year;
+```
+
+```
+SELECT SYSDATE                          now,       SYSDATE + 1 / (24 * 60 * 60)     plus_second,       SYSDATE + 1 / (24 * 60)          plus_minute,       SYSDATE + 1 / 24                 plus_hour,       SYSDATE + 1                      plus_day,       ADD_MONTHS (SYSDATE, 1)          plus_month,       ADD_MONTHS (SYSDATE, 12)         plus_year  FROM DUAL;
+```
+
+8) Таблица Employees. Получить список всех сотрудников с полными зарплатами (salary + commission_pct(%)) в формате: $24,000.00
+
+```
+SELECT
+    first_name,
+    last_name,
+    '$' || TO_CHAR(salary + (salary * commission_pct / 100), 'FM999,999,999,999.00') AS whole_salary
+FROM
+    employees;
+```
+
+```
+SELECT first_name, salary, TO_CHAR (salary + salary * NVL (commission_pct, 0), 'fm$99,999.00') full_salary  FROM employees;
+```
+
+9) Таблица Employees. Получить список всех сотрудников и информацию о наличии бонусов к зарплате (Yes/No)
+
+```
+SELECT
+    employee_id,
+    first_name,
+    last_name,
+    salary,
+    commission_pct,
+    CASE
+        WHEN commission_pct IS NOT NULL THEN 'Yes'
+        ELSE 'No'
+    END AS has_bonus
+FROM
+    employees;
+```
+
+```
+SELECT first_name, commission_pct, NVL2 (commission_pct, 'Yes', 'No') has_bonus  FROM employees;
+```
+
+10) Таблица Employees. Получить уровень зарплаты каждого сотрудника: Меньше 5000 считается Low level, Больше или равно 5000 и меньше 10000 считается Normal level, Больше иои равно 10000 считается High level
+
+```
+SELECT first_name, last_name,
+	   CASE
+		   WHEN salary < 5000 THEN 'Low level'
+		   WHEN salary >= 5000 AND salary < 10000 THEN 'Normal level'
+		   ELSE 'High level'
+	   END AS salary_level
+FROM employees
+```
+
+```
+SELECT first_name,       salary,       CASE           WHEN salary < 5000 THEN 'Low'           WHEN salary >= 5000 AND salary < 10000 THEN 'Normal'           WHEN salary >= 10000 THEN 'High'           ELSE 'Unknown'       END           salary_level  FROM employees;
+```
+
+11) Таблица Countries. Для каждой страны показать регион в котором он находится: 1-Europe, 2-America, 3-Asia, 4-Africa (без Join)
+```
+SELECT country_name AS country,
+	CASE region_id
+		WHEN 1 THEN 'Europe'
+		WHEN 2 THEN 'America' 
+		WHEN 3 THEN 'Asia' 
+		WHEN 4 THEN 'Africa' 
+		ELSE 'Unknown' 
+	END AS region FROM countries;
+```
+
+```
+SELECT country_name country,       DECODE (region_id,               1, 'Europe',               2, 'America',               3, 'Asia',               4, 'Africa',               'Unknown')           region  FROM countries;SELECT country_name           country,       CASE region_id           WHEN 1 THEN 'Europe'           WHEN 2 THEN 'America'           WHEN 3 THEN 'Asia'           WHEN 4 THEN 'Africa'           ELSE 'Unknown'       END           region  FROM countries;
 ```
