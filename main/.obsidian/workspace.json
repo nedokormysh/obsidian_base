@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python (data structures, conditions and loops)"
+              "title": "Третья ступень. Теоретическая база._Content"
             }
           }
         ]
@@ -165,8 +165,10 @@
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
     "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
-    "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
+    "Courses/PyMagic/Вторая ступень/Python (OOP, recursion, algorithm complexity).md",
     "Courses/PyMagic/Вторая ступень/Функции.md",
+    "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
+    "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
     "Courses/Stepik/Statistics/Statistics_1/T-распределение.md",
     "Courses/Stepik/Statistics/Statistics_1/Идея стат. вывода. P-value.md",
     "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
@@ -193,10 +195,8 @@
     "Courses/PyMagic/Третья ступень. Теоретическая база/AB тестирование.md",
     "2024-10-25.md",
     "Untitled.canvas",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
     "Pasted image 20241025152608.png",
     "Pasted image 20241025150618.png",
-    "ML/Разное/доверительный интервал.md",
     "Pasted image 20241024124409.png",
     "Pasted image 20241024120019.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
