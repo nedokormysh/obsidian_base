@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Statistics/Statistics_1/T-распределение.md",
+                "file": "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T-распределение"
+              "title": "Python (data structures, conditions and loops)"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
-    "Courses/Stepik/Statistics/Statistics_1/Идея стат. вывода. P-value.md",
+    "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
+    "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
+    "Courses/PyMagic/Вторая ступень/Функции.md",
     "Courses/Stepik/Statistics/Statistics_1/T-распределение.md",
+    "Courses/Stepik/Statistics/Statistics_1/Идея стат. вывода. P-value.md",
     "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
     "Courses/Stepik/Statistics/Statistics_1/ЦПТ.md",
     "Courses/Stepik/Statistics/Statistics_1/Statisctics_1_content.md",
@@ -194,9 +197,6 @@
     "Pasted image 20241025152608.png",
     "Pasted image 20241025150618.png",
     "ML/Разное/доверительный интервал.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Pandas.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
-    "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
     "Pasted image 20241024124409.png",
     "Pasted image 20241024120019.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
