@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
+                "file": "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика 1"
+              "title": "RANDOM SQL"
             }
           }
         ]
@@ -164,6 +164,18 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
+    "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
+    "Courses/Karpov/SQL/Фильтрация данных/Time_filtration.md",
+    "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
+    "Courses/Karpov/SQL/Базовые запросы/Задание.md",
+    "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
+    "Courses/Karpov/SQL/Базовые запросы/Арифметические действия.md",
+    "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
+    "Courses/Stepik/Statistics/Statistics_1/Statisctics_1_content.md",
+    "Courses/Stepik/Statistics/Statistics_1/Нормальное распределение.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
+    "Courses/Stepik/Statistics/Statistics_1",
+    "Courses/Stepik/Statistics",
     "Pasted image 20241027190129.png",
     "Pasted image 20241027184028.png",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 3.md",
@@ -180,22 +192,13 @@
     "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Метод ближайших соседей.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification/Многоклассовая и multilabel.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "Pasted image 20241024124409.png",
     "Pasted image 20241024120019.png",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Numpy.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Линейная алгебра.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Математический анализ.md",
-    "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
     "Courses/Karpov/SQL/Группировка данных/HAVING.md",
-    "Courses/Karpov/SQL/Фильтрация данных/LIKE.md",
-    "Courses/Karpov/SQL/Фильтрация данных/NULL.md",
-    "Courses/Karpov/SQL/Фильтрация данных/Random_tasks.md",
-    "Courses/Karpov/SQL/Фильтрация данных/Text_filtration_simple.md",
-    "Courses/Karpov/SQL/Фильтрация данных/Time_filtration.md",
-    "Courses/Karpov/SQL/Фильтрация данных/WHERE.md",
-    "Courses/Karpov/SQL/Фильтрация данных/IN BETWEEN.md",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
     "Pasted image 20241022162343.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
@@ -205,11 +208,8 @@
     "Pasted image 20241022120549.png",
     "Programming/Разное",
     "Programming",
-    "Pasted image 20241021140347.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков",
     "Courses/Stepik/Ai_edu/Practical ML/Week_4_lin_classif",
-    "Courses/Karpov/SQL/Подзапросы",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_3_gradient_decent",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_2_lin_reg"
+    "Courses/Karpov/SQL/Подзапросы"
   ]
 }

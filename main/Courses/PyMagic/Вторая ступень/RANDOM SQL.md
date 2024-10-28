@@ -244,3 +244,88 @@ SELECT phone_number,
        REPLACE(phone_number, '.', '-') AS new_phone_number
 FROM employees;
 ```
+
+# **Using Conversion Functions and Conditional Expressions**
+
+1) Таблица Employees. Получить список всех сотрудников которые пришли на работу в первый день месяца (любого)
+
+```
+SELECT *
+FROM employees
+WHERE DATE_PART('day', hire_date) = 01
+```
+
+```
+SELECT *  FROM employees WHERE TO_CHAR (hire_date, 'DD') = '01';
+```
+
+2) Таблица Employees. Получить список всех сотрудников которые пришли на работу в 2008ом году
+
+```
+SELECT *
+FROM employees
+WHERE DATE_PART('year', hire_date) = 2008
+```
+
+```
+SELECT *  FROM employees WHERE TO_CHAR (hire_date, 'YYYY') = '2008';
+```
+
+3) Таблица DUAL. Показать завтрашнюю дату в формате: Tomorrow is Second day of January
+
+
+```
+SELECT 'Tomorrow is ' ||
+       TO_CHAR(CURRENT_DATE + INTERVAL '1 day', 'DD') || ' day of ' ||
+       TO_CHAR(CURRENT_DATE + INTERVAL '1 day', 'Month') AS info;
+```
+
+```
+SELECT TO_CHAR (SYSDATE, 'fm""Tomorrow is ""Ddspth ""day of"" Month')     info  FROM DUAL;
+```
+
+4) Таблица Employees. Получить список всех сотрудников и дату прихода на работу каждого в формате: 21st of June, 2007
+```
+SELECT first_name, last_name
+FROM employees, TO_CHAR (DATE_PART('day', hire_date) || 'th' || DATE_PART('month', hire_date)|| DATE_PART('year',  hire_date)) as hire_date_1
+```
+
+```
+SELECT
+    employee_id,
+    first_name,
+    last_name,
+    TO_CHAR(hire_date, 'DDth of FMMonth, YYYY') AS hire_date_formatted
+FROM
+    employees;
+```
+
+```
+SELECT first_name, TO_CHAR (hire_date, 'fmddth ""of"" Month, YYYY') hire_date  FROM employees;
+```
+
+5) Таблица Employees. Получить список работников с увеличенными зарплатами на 20%. Зарплату показать со знаком доллара
+
+```
+SELECT *,
+       (salary * 1.2)::text || '$' AS salary_formatted
+FROM employees;
+```
+
+```
+SELECT first_name, TO_CHAR (salary + salary * 0.20, 'fm$999,999.00') new_salary  FROM employees;
+```
+
+6) Таблица Employees. Получить список всех сотрудников которые пришли на работу в феврале 2007го года.
+```
+SELECT *
+FROM employees
+WHERE DATE_PART('year', hire_date) = 2007 AND
+	  DATE_PART('month', hire_date) = 02
+```
+
+```
+SELECT *  FROM employees WHERE hire_date BETWEEN TO_DATE ('01.02.2007', 'DD.MM.YYYY')                     AND LAST_DAY (TO_DATE ('01.02.2007', 'DD.MM.YYYY'));
+
+SELECT *  FROM employees WHERE to_char(hire_date,'MM.YYYY') = '02.2007'; 
+```
