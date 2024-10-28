@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Stepik/Statistics/Statistics_1/Идея стат. вывода. P-value.md",
+                "file": "Courses/Stepik/Statistics/Statistics_1/T-распределение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Идея стат. вывода. P-value"
+              "title": "T-распределение"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
-    "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
     "Courses/Stepik/Statistics/Statistics_1/Идея стат. вывода. P-value.md",
+    "Courses/Stepik/Statistics/Statistics_1/T-распределение.md",
+    "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
     "Courses/Stepik/Statistics/Statistics_1/ЦПТ.md",
     "Courses/Stepik/Statistics/Statistics_1/Statisctics_1_content.md",
     "Courses/Stepik/Statistics/Statistics_1/Нормальное распределение.md",
@@ -196,7 +197,6 @@
     "Courses/PyMagic/Третья ступень. Теоретическая база/Pandas.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Логистическая регрессия.md",
     "Courses/PyMagic/Четвёртая ступень. Машинное обучение. Линейные модели/4. Линейная классификация/Линейный классификатор.md",
-    "Courses/OpenEDU/HSE/ML/Лекция 7 (Логистическая регрессия Метод опорных векторов).md",
     "Pasted image 20241024124409.png",
     "Pasted image 20241024120019.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_7_multiclassification",
