@@ -512,3 +512,8 @@ HAVING COUNT(*) IS NOT NULL AND COUNT(*) >= 1
 ```
 SELECT COUNT (COUNT (*))     department_count    FROM employees   WHERE department_id IS NOT NULLGROUP BY department_id;
 ```
+
+7)   Таблица Employees. Получить список department_id в котором работают больше 30 сотрудников
+```
+SELECT department_id
+```
