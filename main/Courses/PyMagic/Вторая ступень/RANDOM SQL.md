@@ -515,5 +515,101 @@ SELECT COUNT (COUNT (*))     department_count    FROM employees   WHERE departme
 
 7)   Таблица Employees. Получить список department_id в котором работают больше 30 сотрудников
 ```
+SELECT department_id, COUNT(*)
+FROM employees
+GROUP BY department_id
+HAVING COUNT(*) > 30
+```
+
+```
+  SELECT department_id    FROM employeesGROUP BY department_id  HAVING COUNT (*) > 30;
+```
+
+8) Таблица Employees. Получить список department_id и округленную среднюю зарплату работников в каждом департаменте.
+
+```
+SELECT department_id, ROUND(AVG(salary), 2)
+FROM employees
+GROUP BY department_id
+```
+
+```
+  SELECT department_id, ROUND (AVG (salary)) avg_salary    FROM employeesGROUP BY department_id;
+```
+
+9) Таблица Countries. Получить список region_id сумма всех букв всех country_name в котором больше 60ти
+
+```
+SELECT region_id
+FROM countries
+GROUP BY region_id
+HAVING SUM(array_length(country_name), 1))> 60
+```
+
+```
+  SELECT region_id    FROM countriesGROUP BY region_id  HAVING SUM (LENGTH (country_name)) > 60;
+```
+
+10) Таблица Employees. Получить список department_id в котором работают работники нескольких (>1) job_id
+
+```
 SELECT department_id
+FROM employees
+GROUP BY department_id
+HAVING COUNT (DISTINCT job_id) > 1;
+```
+
+```
+  SELECT department_id    FROM employeesGROUP BY department_id  HAVING COUNT (DISTINCT job_id) > 1;
+```
+
+11) Таблица Employees. Получить список manager_id у которых количество подчиненных больше 5 и сумма всех зарплат его подчиненных больше 50000
+
+```
+SELECT manager_id
+FROM employees
+GROUP BY manager_id
+HAVING COUNT (*) > 5 AND SUM (salary) > 50000;
+```
+
+12) Таблица Employees. Получить список manager_id у которых средняя зарплата всех его подчиненных находится в промежутке от 6000 до 9000 которые не получают бонусы (commission_pct пустой)
+
+```
+SELECT manager_id, AVG (salary) avg_salary
+FROM employees
+WHERE commission_pct IS NULL
+GROUP BY manager_id
+HAVING AVG (salary) BETWEEN 6000 AND 9000;
+```
+
+13) Таблица Employees. Получить максимальную зарплату из всех сотрудников job_id которых заканчивается на слово 'CLERK'
+
+```
+SELECT MAX(salary) max_salary
+FROM employees
+WHERE job_id LIKE "%CLERK"
+```
+
+14) Таблица Employees. Получить максимальную зарплату среди всех средних зарплат по департаменту
+```
+SELECT MAX(AVG(salary))
+FROM employees
+GROUP BY department_id
+```
+
+15) Таблица Employees. Получить количество сотрудников с одинаковым количеством букв в имени. При этом показать только тех у кого длина имени больше 5 и количество сотрудников с таким именем больше 20. Сортировать по длинне имени
+
+```
+SELECT LENGTH (first_name), COUNT (*)
+FROM employees
+GROUP BY LENGTH (first_name)
+HAVING LENGTH (first_name) > 5 AND COUNT (*) > 20
+ORDER BY LENGTH (first_name);
+
+SELECT LENGTH (first_name), COUNT (*)
+FROM employees
+WHERE LENGTH (first_name) > 5
+GROUP BY LENGTH (first_name)
+HAVING COUNT (*) > 20
+ORDER BY LENGTH (first_name);
 ```
