@@ -413,3 +413,43 @@ SELECT country_name AS country,
 ```
 SELECT country_name country,       DECODE (region_id,               1, 'Europe',               2, 'America',               3, 'Asia',               4, 'Africa',               'Unknown')           region  FROM countries;SELECT country_name           country,       CASE region_id           WHEN 1 THEN 'Europe'           WHEN 2 THEN 'America'           WHEN 3 THEN 'Asia'           WHEN 4 THEN 'Africa'           ELSE 'Unknown'       END           region  FROM countries;
 ```
+
+# **Reporting Aggregated Data Using the Group Functions**
+
+1) Таблица Employees. Получить репорт по department_id с минимальной и максимальной зарплатой, с ранней и поздней датой прихода на работу и с количествов сотрудников. Сорировать по количеству сотрудников (по убыванию)
+
+```
+SELECT department_id, 
+	MIN(salary),
+	MAX(salary), 
+	MIN(hire_date), 
+	max(hire_date), 
+	COUNT(employee_id) as cnt
+FROM employees
+GROUP BY department_id
+ORDER COUNT(employee_id) as cnt BY DESC
+```
+
+```
+SELECT department_id,         MIN (salary) min_salary,         MAX (salary) max_salary,         MIN (hire_date) min_hire_date,         MAX (hire_date) max_hire_Date,         COUNT (*) count    FROM employeesGROUP BY department_idorder by count(*) desc;
+```
+
+2) Таблица Employees. Сколько сотрудников имена которых начинается с одной и той же буквы? Сортировать по количеству. Показывать только те где количество больше 1
+
+```
+SELECT
+    LEFT(first_name, 1) AS initial,
+    COUNT(*) AS cnt
+FROM
+    employees
+GROUP BY
+    LEFT(first_name, 1)
+HAVING
+    COUNT(*) > 1
+ORDER BY
+    cnt DESC;
+```
+
+```
+SELECT SUBSTR (first_name, 1, 1) first_char, COUNT (*)    FROM employeesGROUP BY SUBSTR (first_name, 1, 1)  HAVING COUNT (*) > 1ORDER BY 2 DESC;
+```
