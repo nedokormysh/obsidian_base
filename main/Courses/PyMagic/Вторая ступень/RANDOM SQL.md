@@ -453,3 +453,62 @@ ORDER BY
 ```
 SELECT SUBSTR (first_name, 1, 1) first_char, COUNT (*)    FROM employeesGROUP BY SUBSTR (first_name, 1, 1)  HAVING COUNT (*) > 1ORDER BY 2 DESC;
 ```
+
+3) Таблица Employees. Сколько сотрудников которые работают в одном и тоже отделе и получают одинаковую зарплату?
+```
+SELECT department_id, salary, COUNT(*)
+FROM employees
+GROUP BY department_id, salary
+HAVING COUNT(*) > 1
+```
+
+```
+SELECT department_id, salary, COUNT (*)    FROM employeesGROUP BY department_id, salary  HAVING COUNT (*) > 1;
+```
+
+4) Таблица Employees. Получить репорт сколько сотрудников приняли на работу в каждый день недели. Сортировать по количеству
+
+```
+SELECT
+    COUNT(employee_id) AS cnt,
+    DATE_PART('dow', hire_date) AS day_of_week
+FROM
+    employees
+GROUP BY
+    DATE_PART('dow', hire_date)
+ORDER BY
+    cnt DESC;
+```
+
+```
+SELECT COUNT(employee_id) AS cnt, TO_CHAR(hire_date, 'Dy') AS day_of_week FROM employees GROUP BY TO_CHAR(hire_date, 'Dy') ORDER BY cnt DESC;
+```
+
+```
+SELECT TO_CHAR (hire_Date, 'Day') day, COUNT (*)    FROM employeesGROUP BY TO_CHAR (hire_Date, 'Day')ORDER BY 2 DESC;
+```
+
+5) Таблица Employees. Получить репорт сколько сотрудников приняли на работу по годам. Сортировать по количеству
+```
+SELECT COUNT(*) AS cnt, DATE_PART('year', hire_date)
+FROM employees
+GROUP BY DATE_PART('year', hire_date)
+ORDER BY cnt DESC
+```
+
+```
+SELECT TO_CHAR (hire_date, 'YYYY') year, COUNT (*)    FROM employeesGROUP BY TO_CHAR (hire_date, 'YYYY');
+```
+
+6) Таблица Employees. Получить количество департаментов в котором есть сотрудники
+
+```
+SELECT COUNT(*) as cnt
+FROM employees
+GROUP BY department_id
+HAVING COUNT(*) IS NOT NULL AND COUNT(*) >= 1
+```
+
+```
+SELECT COUNT (COUNT (*))     department_count    FROM employees   WHERE department_id IS NOT NULLGROUP BY department_id;
+```
