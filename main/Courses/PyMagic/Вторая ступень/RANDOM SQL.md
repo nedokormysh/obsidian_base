@@ -613,3 +613,6 @@ GROUP BY LENGTH (first_name)
 HAVING COUNT (*) > 20
 ORDER BY LENGTH (first_name);
 ```
+
+# **Displaying Data from Multiple Tables Using Joins**
+
