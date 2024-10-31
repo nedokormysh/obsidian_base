@@ -694,11 +694,125 @@ Clara | Currently Working
 
 ```
 SELECT  e.first_name || 
-		CASE WHEN end_date IS NULL THEN 'working'
-			 WHEN end_date IS NOT NULL 'not working'
-		END AS status ||
+		CASE WHEN end_date IS NULL THEN 'Left the company at ' ||
+									    TO_CHAR(jh.end_date, 'DD of Month, YYYY')
+			 ELSE 'Currently working'
+		END AS status
 		
 FROM employees e
 JOIN job_history jh ON e.employee_id = jh.employee_id
+```
 
 ```
+SELECT first_name,       NVL2 (           end_date,           TO_CHAR (end_date, 'fm""Left the company at"" DD ""of"" Month, YYYY'),           'Currently Working')           status  FROM employees e LEFT JOIN job_history j ON (e.employee_id = j.employee_id);
+```
+
+6) Таблица Employees, Departaments, Locations, Countries, Regions. Получить список сотрудников которые живут в Europe (region_name)
+
+```
+SELECT *
+FROM employees e
+JOIN departments d ON e.department_id = d.department_id
+JOIN locations l ON d.location_id = l.location_id
+JOIN countries c ON l.country_id = c.country_id
+JOIN regions r ON c.region_id = r.region_id
+WHERE r.region_name = 'Europe'
+```
+
+```
+SELECT first_name  FROM employees       JOIN departments USING (department_id)       JOIN locations USING (location_id)       JOIN countries USING (country_id)       JOIN regions USING (region_id) WHERE region_name = 'Europe';
+
+SELECT first_name  FROM employees  e       JOIN departments d ON (e.department_id = d.department_id)       JOIN locations l ON (d.location_id = l.location_id)       JOIN countries c ON (l.country_id = c.country_id)       JOIN regions r ON (c.region_id = r.region_id) WHERE region_name = 'Europe';
+```
+
+7) Таблица Employees, Departaments. Показать все департаменты в которых работают больше 30ти сотрудников
+
+```
+SELECT department_id, COUNT(employee_id)
+FROM employees e
+JOIN departments d ON e.department_id = d.department_id
+GROUP BY department_id
+HAVING COUNT(employee_id) > 30
+```
+
+```
+SELECT department_name, COUNT (*)    FROM employees e JOIN departments d ON (e.department_id = d.department_id)GROUP BY department_name  HAVING COUNT (*) > 30;
+```
+
+8) Таблица Employees, Departaments. Показать всех сотрудников которые не состоят ни в одном департаменте
+
+```
+SELECT employee_id
+FROM employees e
+LEFT JOIN departments d ON e.department_id = d.department_id
+WHERE department_name IS NULL
+```
+
+```
+SELECT first_name
+FROM employees  e
+LEFT JOIN departments d ON (e.department_id = d.department_id)
+WHERE d.department_name IS NULL;
+
+SELECT first_name
+FROM employees
+WHERE department_id IS NULL;
+```
+
+9) Таблица Employees, Departaments. Показать все департаменты в которых нет ни одного сотрудника
+
+```
+SELECT depatment_id
+FROM employees e
+RIGHT JOIN departments d ON e.department_id = d.department_id
+GROUP BY depatment_id
+HAVING COUNT(e.employee_id) = 0
+```
+
+```
+SELECT
+    d.department_id,
+    d.department_name
+FROM
+    departments d
+LEFT JOIN
+    employees e ON d.department_id = e.department_id
+WHERE
+    e.employee_id IS NULL;
+
+```
+
+```
+SELECT department_name
+FROM employees  e
+RIGHT JOIN departments d ON (e.department_id = d.department_id)
+WHERE first_name IS NULL;
+```
+
+10) Таблица Employees. Показать всех сотрудников у которых нет ни кого в подчинении
+
+```
+SELECT
+    man.first_name,
+    man.last_name
+FROM
+    employees man
+LEFT JOIN
+    employees emp ON man.employee_id = emp.manager_id
+WHERE
+    emp.employee_id IS NULL;
+
+```
+
+```
+SELECT man.first_name
+FROM employees  emp
+RIGHT JOIN employees man ON (emp.manager_id = man.employee_id)
+WHERE emp.FIRST_NAME IS NULL;
+```
+
+11) Таблица Employees, Jobs, Departaments. Показать сотрудников в формате: First_name, Job_title, Department_name.  
+Пример:  
+First_name | Job_title | Department_name  
+Donald | Shipping | Clerk Shipping
+
