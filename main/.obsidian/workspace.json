@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 3.md",
+                "file": "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика 3"
+              "title": "RANDOM SQL"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Теория вероятности.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 3.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
     "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
@@ -189,7 +190,6 @@
     "Courses/Karpov/SQL/Группировка данных/DATE_TRUNC.md",
     "Courses/Karpov/SQL/Базовые запросы/Задание.md",
     "Courses/Karpov/SQL/Базовые запросы/Базовые_запросы_content.md",
-    "Courses/Karpov/SQL/Базовые запросы/Арифметические действия.md",
     "Courses/Stepik/Statistics/Statistics_1",
     "Courses/Stepik/Statistics",
     "Pasted image 20241027190129.png",

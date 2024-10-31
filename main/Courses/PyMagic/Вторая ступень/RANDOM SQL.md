@@ -616,3 +616,57 @@ ORDER BY LENGTH (first_name);
 
 # **Displaying Data from Multiple Tables Using Joins**
 
+1) Таблица Employees, Departaments, Locations, Countries, Regions. Получить список регионов и количество сотрудников в каждом регионе
+
+```
+SELECT r.region_id, r.region_name, COUNT(*) as cnt
+FROM employees e
+JOIN departments d ON e.departmet_id = d.department_id
+JOIN locations l ON d.location_id = l.location_id
+JOIN countries c ON l.country_id = c.country_id
+JOIN regions r ON c.region_id = r.region_id
+GROUP BY region_id, region_name
+```
+
+```
+ SELECT region_name, COUNT (*)    FROM employees e         JOIN departments d ON (e.department_id = d.department_id)         JOIN locations l ON (d.location_id = l.location_id)         JOIN countries c ON (l.country_id = c.country_id)         JOIN regions r ON (c.region_id = r.region_id)GROUP BY region_name;
+```
+
+2) Таблица Employees, Departaments, Locations, Countries, Regions. Получить детальную информацию о каждом сотруднике:  First_name, Last_name, Departament, Job, Street, Country, Region
+```
+SELECT  
+	e.first_name,
+	e.last_name,
+	d.department_name,
+	e.job_id,
+	l.street_address,
+	c.country_name,
+	r.region_name		
+FROM employees e
+JOIN departments d ON e.department_id = d.department_id
+JOIN locations l ON d.location_id = l.location_id
+JOIN countries c ON l.country_id = c.country_id
+JOIN regions r ON c.region_id = r.region_id
+```
+
+```
+SELECT First_name,       Last_name,       Department_name,       Job_id,       street_address,       Country_name,       Region_name  FROM employees  e       JOIN departments d ON (e.department_id = d.department_id)       JOIN locations l ON (d.location_id = l.location_id)       JOIN countries c ON (l.country_id = c.country_id)       JOIN regions r ON (c.region_id = r.region_id);
+```
+
+3) Таблица Employees. Показать всех менеджеров которые имеют в подчинении больше 6ти сотрудников
+
+```
+SELECT manager_id, COUNT (*)
+FROM employees e
+	JOIN employees m ON (e.manager_id = m.employee_id)
+GROUP BY m.manager_id
+HAVING COUNT (*) > 6
+```
+
+```
+SELECT man.first_name, COUNT (*)
+FROM employees emp
+	JOIN employees man ON (emp.manager_id = man.employee_id)
+GROUP BY man.first_name
+HAVING COUNT (*) > 6;
+```
