@@ -816,3 +816,32 @@ WHERE emp.FIRST_NAME IS NULL;
 First_name | Job_title | Department_name  
 Donald | Shipping | Clerk Shipping
 
+```
+SELECT first_name, job_title, department_name 
+FROM employees  e       
+JOIN jobs j ON (e.job_id = j.job_id)
+JOIN departments d ON (d.department_id = e.department_id);
+```
+
+12) Таблица Employees. Получить список сотрудников менеджеры которых устроились на работу в 2005ом году но при это сами эти работники устроились на работу до 2005 года
+
+```
+SELECT first_name, job_title, department_name 
+FROM employees  e 
+JOIN employees man ON e.manager_id = man.employee_id
+JOIN jobs j ON (e.job_id = j.job_id)
+WHERE DATA('year', m.hire_date) = 2005
+AND EXTRACT(YEAR FROM e.hire_date) < 2005;
+```
+
+```
+SELECT emp.*  FROM employees emp JOIN employees man ON (emp.manager_id = man.employee_id) WHERE     TO_CHAR (man.hire_date, 'YYYY') = '2005'       AND emp.hire_date < TO_DATE ('01012005', 'DDMMYYYY');
+```
+
+13) Таблица Employees. Получить список сотрудников менеджеры которых устроились на работу в январе месяце любого года и длина job_title этих сотрудников больше 15ти символов
+```
+SELECT emp.*
+FROM employees  emp
+JOIN employees man ON (emp.manager_id = man.employee_id)
+JOIN jobs j ON (emp.job_id = j.job_id) WHERE TO_CHAR (man.hire_date, 'MM') = '01' AND LENGTH (j.job_title) > 15;
+```
