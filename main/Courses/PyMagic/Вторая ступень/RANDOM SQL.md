@@ -670,3 +670,35 @@ FROM employees emp
 GROUP BY man.first_name
 HAVING COUNT (*) > 6;
 ```
+
+4) Таблица Employees. Показать всех сотрудников которые ни кому не подчиняются
+
+```
+SELECT emp.first_name
+FROM employees  emp
+LEFT JOIN employees man ON (emp.manager_id = man.employee_id)
+WHERE man.FIRST_NAME IS NULL;
+```
+
+```
+SELECT first_name
+FROM employees
+WHERE manager_id IS NULL;
+```
+
+5) Таблица Employees, Job_history. В таблице Employee хранятся все сотрудники. В таблице Job_history хранятся сотрудники которые покинули компанию. Получить репорт о всех сотрудниках и о его статусе в компании (Работает или покинул компанию с датой ухода)  
+Пример:  
+first_name | status  
+Jennifer | Left the company at 31 of December, 2006  
+Clara | Currently Working
+
+```
+SELECT  e.first_name || 
+		CASE WHEN end_date IS NULL THEN 'working'
+			 WHEN end_date IS NOT NULL 'not working'
+		END AS status ||
+		
+FROM employees e
+JOIN job_history jh ON e.employee_id = jh.employee_id
+
+```
