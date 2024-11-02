@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/HR/Подзапросы.md",
+                "file": "Courses/PyMagic/Третья ступень. Теоретическая база/Теория вероятности.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подзапросы"
+              "title": "Теория вероятности"
             }
           }
         ]
@@ -164,15 +164,16 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
+    "Courses/PyMagic/Вторая ступень/Теория вероятности.md",
+    "Courses/PyMagic/Третья ступень. Теоретическая база/Теория вероятности.md",
+    "Courses/PyMagic/Вторая ступень/HR/Подзапросы.md",
     "Courses/PyMagic/Вторая ступень/HR/Объединение таблиц.md",
     "Courses/PyMagic/Вторая ступень/HR/Выборка с условиями.md",
-    "Courses/PyMagic/Вторая ступень/HR/Подзапросы.md",
     "Courses/PyMagic/Вторая ступень/RANDOM SQL.md",
     "Courses/PyMagic/Вторая ступень/HR/Аггрегация и группировка.md",
     "Courses/PyMagic/Вторая ступень/HR/Однострочные функции для выборки данных.md",
     "Courses/PyMagic/Вторая ступень/HR/Выборка и сортировка данных.md",
     "Courses/PyMagic/Вторая ступень/HR",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Теория вероятности.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 3.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
@@ -190,7 +191,6 @@
     "Courses/Stepik/Statistics/Statistics_1/Нормальное распределение.md",
     "Courses/Karpov/SQL/Группировка данных/Группировка_данных_content.md",
     "Courses/Karpov/SQL/Karpov_SQL_content.md",
-    "05_SQL.md",
     "Courses/Stepik/Statistics/Statistics_1",
     "Courses/Stepik/Statistics",
     "Pasted image 20241027190129.png",
