@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Теория вероятности"
             }
+          },
+          {
+            "id": "bd69418522b428a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4580c1b175a740",
+  "active": "bd69418522b428a6",
   "lastOpenFiles": [
     "Courses/PyMagic/Вторая ступень/Теория вероятности.md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Теория вероятности.md",
