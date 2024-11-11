@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
+                "file": "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python (venv, variables, data types, arithmetic operations)"
+              "title": "Python (data structures, conditions and loops)"
             }
           }
         ]
@@ -165,6 +165,7 @@
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
     "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
+    "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Теория вероятности.md",
     "Courses/PyMagic/Вторая ступень/Теория вероятности.md",
     "Courses/PyMagic/Вторая ступень/HR/Подзапросы.md",
@@ -182,7 +183,6 @@
     "Courses/PyMagic/Вторая ступень/Python (OOP, recursion, algorithm complexity).md",
     "Courses/PyMagic/Вторая ступень/Функции.md",
     "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
-    "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
     "Courses/Stepik/Statistics/Statistics_1/T-распределение.md",
     "Courses/Stepik/Statistics/Statistics_1/Идея стат. вывода. P-value.md",
     "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
