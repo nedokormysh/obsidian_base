@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiophysics/Усилители/Режим А.md",
+                "file": "Radiophysics/Усилители/Режимы работы усилителей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Режим А"
+              "title": "Режимы работы усилителей"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
-    "Radiophysics/Усилители/Режимы работы усилителей.md",
     "Radiophysics/Усилители/Режим А.md",
+    "Radiophysics/Усилители/Режимы работы усилителей.md",
     "Pasted image 20241206104953.png",
     "Pasted image 20241206104753.png",
     "Pasted image 20241206103845.png",
