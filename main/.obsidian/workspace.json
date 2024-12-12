@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Режимы работы усилителей"
             }
+          },
+          {
+            "id": "289eb9d2785b6897",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4580c1b175a740",
+  "active": "289eb9d2785b6897",
   "lastOpenFiles": [
     "Radiophysics/Усилители/Режим А.md",
     "Radiophysics/Усилители/Режимы работы усилителей.md",
