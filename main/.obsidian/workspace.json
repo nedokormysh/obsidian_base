@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Режимы работы усилителей"
             }
-          },
-          {
-            "id": "289eb9d2785b6897",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,15 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "289eb9d2785b6897",
+  "active": "aa4580c1b175a740",
   "lastOpenFiles": [
+    "Radiophysics/Обозначения напряжений.md",
     "Radiophysics/Усилители/Режим А.md",
     "Radiophysics/Усилители/Режимы работы усилителей.md",
     "Pasted image 20241206104953.png",
     "Pasted image 20241206104753.png",
     "Pasted image 20241206103845.png",
     "Radiophysics/Усилители/Нелинейные искажения.md",
-    "Radiophysics/Обозначения напряжений.md",
     "Radiophysics/Усилители",
     "Radiophysics/04_Radiophysics.md",
     "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
