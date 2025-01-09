@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiophysics/Усилители/Режимы работы усилителей.md",
+                "file": "Finance/Crimson/REIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Режимы работы усилителей"
+              "title": "REIT"
             }
           }
         ]
@@ -164,15 +164,25 @@
   },
   "active": "aa4580c1b175a740",
   "lastOpenFiles": [
+    "Finance/Crimson/Crimson_content.md",
+    "Finance/Crimson/Crimson.md",
+    "Finance/Crimson/REIT.md",
+    "Finance/07_Finance.md",
+    "ML/Разное/Градиентный спуск.md",
+    "ML/00_ML.md",
+    "05_SQL.md",
+    "Courses/Karpov/SQL/Karpov_SQL_content.md",
+    "Finance/Crimson",
+    "Radiophysics/04_Radiophysics.md",
+    "Finance",
+    "Radiophysics/Усилители/Режимы работы усилителей.md",
     "Radiophysics/Обозначения напряжений.md",
     "Radiophysics/Усилители/Режим А.md",
-    "Radiophysics/Усилители/Режимы работы усилителей.md",
     "Pasted image 20241206104953.png",
     "Pasted image 20241206104753.png",
     "Pasted image 20241206103845.png",
     "Radiophysics/Усилители/Нелинейные искажения.md",
     "Radiophysics/Усилители",
-    "Radiophysics/04_Radiophysics.md",
     "Courses/PyMagic/Вторая ступень/Python (data structures, conditions and loops).md",
     "Courses/PyMagic/Вторая ступень/Вторая ступень. Основы Python и SQL._Content.md",
     "Courses/PyMagic/Вторая ступень/Python (venv, variables, data types, arithmetic operations).md",
@@ -187,14 +197,6 @@
     "Courses/PyMagic/Вторая ступень/HR/Выборка и сортировка данных.md",
     "Courses/PyMagic/Вторая ступень/HR",
     "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 3.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 2.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Статистика 1.md",
-    "Courses/PyMagic/Третья ступень. Теоретическая база/Третья ступень. Теоретическая база._Content.md",
-    "Courses/PyMagic/Вторая ступень/Python (OOP, recursion, algorithm complexity).md",
-    "Courses/PyMagic/Вторая ступень/Функции.md",
-    "Courses/Stepik/Statistics/Statistics_1/T-распределение.md",
-    "Courses/Stepik/Statistics/Statistics_1/Идея стат. вывода. P-value.md",
-    "Courses/Stepik/Statistics/Statistics_1/Доверительный интервал.md",
     "Courses/Stepik/Statistics/Statistics_1",
     "Courses/Stepik/Statistics",
     "Pasted image 20241027190129.png",
@@ -208,8 +210,6 @@
     "Pasted image 20241022162343.png",
     "Courses/Stepik/Ai_edu/Practical ML/Week_6_lin_model_class",
     "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков/Untitled",
-    "Programming/Разное",
-    "Programming",
-    "Courses/Stepik/Ai_edu/Practical ML/Week_5_Обработка признаков"
+    "Programming/Разное"
   ]
 }
